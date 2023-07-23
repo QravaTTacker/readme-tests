@@ -2,7 +2,7 @@
 <!--' ABOUT + GIF #################################################### '-->
 <!--' ################################################################ '-->
 <div align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=qravattacker&theme=gruvbox&row=1&column=7&margin-w=10&margin-h=10&no-frame=true"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=qravattacker&theme=gruvbox&row=1&column=6&margin-w=10&margin-h=10&no-frame=true"/>
 </div>
 
 <!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=QravaTTacker&repo=basic-tools&countColor=%237B1E7A) -->
@@ -15,6 +15,7 @@
 
 <img align="right" height="150" width="150" alt="My Gif" title=";-;"
       src="https://cdn.discordapp.com/attachments/1092414380198592555/1131729561038618735/7t8g23.gif" />
+
 </div>
 <!--' ################################################################ '-->
 <!--' SPOTIFY ######################################################## '-->
@@ -113,7 +114,7 @@
       </a><br/><br/>
       <!-- LANGUAGES -->
       <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qravattacker&theme=aura&bg_color=deg,15131b,2a0027&hide_progress=false&layout=compact&custom_title=Linguagens&langs_count=10&border_color=503b7e" />
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qravattacker&theme=aura&bg_color=deg,15131b,2a0027&hide_progress=false&layout=compact&custom_title=Linguagens&langs_count=12&border_color=503b7e" />
       </a>
       <!-- STATUS -->
       <a href="https://github.com/anuraghazra/github-readme-stats">
