@@ -1,34 +1,94 @@
-<!--' ################################################################ '-->
-<!--' ABOUT + GIF #################################################### '-->
-<!--' ################################################################ '-->
+<!--' ABOUT + GIF ########################################## '-->
+<!--' ABOUT + GIF ########################################## '-->
+<!--' ABOUT + GIF ########################################## '-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 <div align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=qravattacker&theme=gruvbox&row=1&column=6&margin-w=10&margin-h=10&no-frame=true"/>
+      <br/>
+      <a href="#">
+            <img alt="Label de escrita dinâmica"
+            src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=20&duration=4000&pause=500&color=61FFCA&center=true&width=435&lines=Análise+e+Desnevolvimento+de+Sistemas;Estudando+JavaScript+e+PHP;FullStack+WEB" />
+      </a>
 </div>
-
-<!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=QravaTTacker&repo=basic-tools&countColor=%237B1E7A) -->
-
-<div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=17&duration=4000&pause=500&color=61FFCA&center=true&width=435&lines=Análise+e+Desnevolvimento+de+Sistemas;Estudando+Java;Futuro+FullStack" alt="Typing SVG" /></a>
-</div>
-
 <div>
+      <p align="justify">
+            <strong>Eai... como vai?</strong><br>
+            Me chamo <del>Cristian</del> <ins>QravaTTacker</ins>, espero que esteja bem! Esse é o meu perfil do Github <strong>dedicado para estudos pessoais</strong> e provavelmente a rede que mais pretendo ficar ativo. Segue abaixo algumas <strong>infos</strong> gerais sobre mim...
+      </p>
 
-<img align="right" height="150" width="150" alt="My Gif" title=";-;"
-      src="https://cdn.discordapp.com/attachments/1092414380198592555/1131729561038618735/7t8g23.gif" />
+```JAVA
+package github;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
+public class Main {
+    public static void main(String[] args) {
+
+        Person eu = new Person();
+
+        eu.name = "Cristian Pessotto";
+        eu.age = 21; //estou MUITO velho mds 1-1
+
+        eu.languages = new ArrayList<>(Arrays.asList(
+            "JavaScript",
+            "PHP",
+            "HTML",
+            "CSS"));
+
+        eu.frameworksAndLibs = new ArrayList<>(Arrays.asList(
+            "React",
+            "Laravel",
+            "Bootstrap",
+            "Spring"));
+
+        eu.foods = new ArrayList<>(Arrays.asList(
+            "Estrogonofe",
+            "Pizza",
+            "Snickers",
+            "Energético"));
+
+        eu.songs = new ArrayList<>(Arrays.asList(
+            "Lo-Fi",
+            "Rock",
+            "Synthwave",
+            "Dark Techno"));
+
+        ArrayList<ArrayList<String>> lists = new ArrayList<>
+        (Arrays.asList(
+            eu.languages,
+            eu.frameworksAndLibs,
+            eu.foods,
+            eu.songs));
+
+        final String line = "-".repeat(20);
+
+        lists.stream().forEach(category -> {
+            System.out.println(line);
+            category.stream().forEach(element -> {
+                System.out.println(element);
+            });
+        });
+    }
+}
+```
+
+ <p align="justify">
+      Não sou apegado em nenhuma linguagem de programação, por esse motivo sempre estou estudando um pouco de tudo. Comecei com <strong>Python</strong> durante o ensino médio, depois parti para <strong>C</strong> na faculdade. Atualmente, estou estudando Estruturas de Dados e OOP com <strong>Java</strong> e desenvolvimento web com <strong>PHP</strong> e <strong>JS</strong>. Além dessas linguagens, gosto bastante de estudar <strong>C/C++</strong> em OFF...
+</p>
 </div>
-<!--' ################################################################ '-->
-<!--' SPOTIFY ######################################################## '-->
-<!--' ################################################################ '-->
+<img align="right" height="150" width="150" alt="My Gif" title=";-;"
+            src="https://cdn.discordapp.com/attachments/1092414380198592555/1131729561038618735/7t8g23.gif" />
 
-### **_O que estou ouvindo_**
+<!--' SPOTIFY ############################################## '-->
+<!--' SPOTIFY ############################################## '-->
+<!--' SPOTIFY ############################################## '-->
+
+### **_Escute comigo ai_** 😏
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rkyoczqj5ax3mrymmjusvvdode&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31rkyoczqj5ax3mrymmjusvvdode&redirect=true)
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
-<!--' ################################################################ '-->
-<!--' LINGUAGENS ##################################################### '-->
-<!--' ################################################################ '-->
+<!--' LINGUAGENS ########################################### '-->
 
 ## Linguagens e Ferramentas
 
@@ -93,24 +153,23 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div><br/>
 
-<!--' ################################################################ '-->
-<!--' GRÁFICO VERTICAL ############################################### '-->
-<!--' ################################################################ '-->
+<!--' GRÁFICO VERTICAL ##### '-->
 
 [![My Graph](https://github-readme-activity-graph.vercel.app/graph?username=QravaTTacker&bg_color=1e0c20&custom_title=Gráfico%20de%20Contribuições&hide_title=true&color=61fec9&line=a277ff&point=f694ff&area=true&hide_border=true&radius=16&hide_title=true&theme=modern-lilac)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 <br/>
 
-<!--' ################################################################ '-->
-<!--' STATUS ######################################################### '-->
-<!--' ################################################################ '-->
+<div align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=qravattacker&theme=gruvbox&row=1&column=7&margin-w=10&margin-h=10&no-frame=true"/>
+</div>
+
+<!--' STATUS ############################################### '-->
 
 <div align="center">
       <!-- STREAK -->
       <a href="https://git.io/streak-stats">
-      <img height="200" align="center" src="https://streak-stats.demolab.com?user=qravattacker&theme=aura&border_radius=6&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&background=45%2C15141B%2C2B0028&fire=f693ff&border=503b7e" />
+      <img height="200" align="center" src="https://streak-stats.demolab.com?user=qravattacker&theme=aura&border_radius=6&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&background=45%2C15141B%2C2B0028&fire=f693ff&bordr=50b7e" />
       </a><br/><br/>
       <!-- LANGUAGES -->
       <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -122,12 +181,9 @@
       </a>
 </div>
 
-<!--' ################################################################ '-->
-<!--' REPOSITÓRIOS ################################################### '-->
-<!--' ################################################################ '-->
+<!--' REPOSITÓRIOS ######### '-->
 
 <h2 style="color:#ff00ff"><em>Repositórios</em></h2>
-
 <br/>
 
 <div align="center">
@@ -135,23 +191,70 @@
             <img height="115" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qravattacker&repo=basic-tools&theme=aura&bg_color=deg,2a0027,15131b&border_color=503b7e" />
       </a>
       <a href="https://github.com/qravattacker/languagens">
-            <img height="115" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qravattacker&repo=languagens&theme=aura&bg_color=deg,2a0027,15131b&border_color=503b7e" />
+            <img height="115" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qravattacker&repo=languagensthee=aura&bg_color=deg,2a0027,15131b&border_color=503b7e" />
       </a><br/><br/>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 ### _Link Customs_
 
-<!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> -->
-
-[](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-<details>
-
 [![Static Badge](https://img.shields.io/badge/LinkedIn-14151f?style=for-the-badge&logo=LinkedIn)](https://github.com/QravaTTacker)
 
-## </details>
-
--       dsdsd
-  > sasas
+<h3>
+      <em><strong>Repositórios, API's e Ferramentas que utilizei</strong></em>
+</h3>
+<em><strong>
+<details>
+      <ul>
+            <li>
+                  Escrita dinâmica 👉🏼
+                  <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_black">
+                        <em><strong>github</strong></em>
+                  </a>
+                  ou
+                  <a href="https://readme-typing-svg.demolab.com/demo/" target="_black">
+                        <em><strong>web</strong></em>
+                  </a>
+            </li>
+            <li>
+                  Música do Spotify 👉🏼 
+                  <a href="https://github.com/kittinan/spotify-github-profile" target="_black">
+                        <em><strong>github</strong></em>
+                  </a>
+            </li>
+            <li>
+                  Logos e ícones 👉🏼 
+                  <a href="https://github.com/devicons/devicon"  target="_black">
+                        <em><strong>github</strong></em>
+                  </a>
+                  ou
+                  <a href="https://devicon.dev/"  target="_black">
+                        <em><strong>web</strong></em>
+                  </a>
+            </li>
+            <li>
+                  Badges e tags 👉🏼 
+                  <a href="https://github.com/badges/shields" target="_black">
+                        <em><strong>github</strong></em>
+                  </a>
+                  ou
+                  <a href="https://shields.io/badges" target="_black">
+                        <em><strong>web</strong></em>
+                  </a>
+            </li>
+            <li>
+                  Gráfico de commits 👉🏼 
+                  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_black">
+                        <em><strong>github</strong></em>
+                  </a>
+            </li>
+            <li>
+                  Widget de status  👉🏼 
+                  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_black">
+                        <em><strong>github</strong></em>
+                  </a>
+            </li>
+      </ul>
+</details>
+</strong><em>
