@@ -1,12 +1,12 @@
 <!--' ABOUT + GIF ########################################## '-->
 <!--' ABOUT + GIF ########################################## '-->
 <!--' ABOUT + GIF ########################################## '-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+<a href="#"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/></a>
 <div align="center">
       <br/>
       <a href="#">
             <img alt="Label de escrita dinâmica"
-            src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=20&duration=4000&pause=500&color=61FFCA&center=true&width=435&lines=Análise+e+Desnevolvimento+de+Sistemas;Estudando+JavaScript+e+PHP;FullStack+WEB" />
+            src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=20&duration=4000&pause=500&color=61FFCA&center=true&width=435&lines=Análise+e+Desnevolvimento+de+Sistemas;Estudando+JavaScript+e+PHP;FullStack+WEB"/>
       </a>
 </div>
 <div>
@@ -76,88 +76,88 @@ public class Main {
       Não sou apegado em nenhuma linguagem de programação, por esse motivo sempre estou estudando um pouco de tudo. Comecei com <strong>Python</strong> durante o ensino médio, depois parti para <strong>C</strong> na faculdade. Atualmente, estou estudando Estruturas de Dados e OOP com <strong>Java</strong> e desenvolvimento web com <strong>PHP</strong> e <strong>JS</strong>. Além dessas três linguagens, gosto bastante de estudar <strong>C/C++</strong> em OFF...
 </p>
 </div>
-<img align="right" height="150" width="150" alt="My Gif" title=";-;"
-            src="https://cdn.discordapp.com/attachments/1092414380198592555/1131729561038618735/7t8g23.gif" />
+<a href="#">
+      <img align="right" height="150" width="150" alt="My Gif" title=";-;" 
+      src="https://cdn.discordapp.com/attachments/1092414380198592555/1131729561038618735/7t8g23.gif" />
+</a>
 
 <!--' SPOTIFY ############################################## '-->
 <!--' SPOTIFY ############################################## '-->
 <!--' SPOTIFY ############################################## '-->
-
 ### **_Escute comigo ai_** 😏
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rkyoczqj5ax3mrymmjusvvdode&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31rkyoczqj5ax3mrymmjusvvdode&redirect=true)
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
+<a href="#"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/></a>
 
 <!--' LINGUAGENS ########################################### '-->
-
 ## Linguagens e Ferramentas
 
 <div align="center">
-  <img height="50" width="50" alt="Python icon" title="Python"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <!-- PYTHON -->
-  <img height="50" width="50" alt="C icon" title="C Language"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <!-- C -->
-  <img height="50" width="50" alt="Java icon" title="Java"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <!-- JAVA -->
-  <img height="60" width="60" alt="PHP icon" title="PHP"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <!-- PHP -->
-  <img height="50" width="50" alt="JavaScript icon" title="JavaScript"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <!-- JS -->
-  <img height="50" width="50" alt="HTML5 icon" title="HTML5"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <!-- HTML5 -->
-  <img height="50" width="50" alt="CSS3 icon" title="CSS3"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <!-- CSS3 -->
-  <img height="50" width="50" alt="GIMP icon" title="GIMP"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /> <!-- GIMP -->
-  <img height="50" width="50" alt="Git icon" title="Git"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <!-- GIT -->
-  <img height="50" width="50" alt="VS Code icon" title="VS Code"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <!-- VS CODE -->
-  <img height="50" width="50" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
-  <img height="50" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img height="50" width="50" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
-  <img height="50" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img height="50" width="50" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img height="50" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="50" width="50" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="50" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  <img height="50" width="50" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img height="50" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img height="50" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-  <img height="50" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-  <img height="50" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  <img height="50" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="50" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-  <img height="50" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-  <img height="50" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-  <img height="50" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="50" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <a href="#"> <a href="#"><img height="50" width="50" alt="Python icon" title="Python"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
+   <a href="#"><img height="50" width="50" alt="C icon" title="C Language"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></a>
+   <a href="#"><img height="50" width="50" alt="Java icon" title="Java"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a>
+   <a href="#"><img height="60" width="60" alt="PHP icon" title="PHP"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/></a>
+   <a href="#"><img height="50" width="50" alt="JavaScript icon" title="JavaScript"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
+   <a href="#"><img height="50" width="50" alt="HTML5 icon" title="HTML5"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
+   <a href="#"><img height="50" width="50" alt="CSS3 icon" title="CSS3"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
+   <a href="#"><img height="50" width="50" alt="GIMP icon" title="GIMP"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"/></a>
+   <a href="#"><img height="50" width="50" alt="Git icon" title="Git"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
+   <a href="#"><img height="50" width="50" alt="VS Code icon" title="VS Code"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a>
+   <a href="#"><img height="50" width="50" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/></a>
+   <a href="#"><img height="50" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></a>
+   <a href="#"><img height="50" width="50" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></a>
+   <a href="#"><img height="50" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/></a>
+   <a href="#"><img height="50" width="50" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a>
+   <a href="#"><img height="50" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></a>
+   <a href="#"><img height="50" width="50" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
+   <a href="#"><img height="50" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/></a>
+   <a href="#"><img height="50" width="50" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/></a>
+   <a href="#"><img height="50" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/></a>
+   <a href="#"><img height="50" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/></a>
+   <a href="#"><img height="50" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/></a>
+   <a href="#"><img height="50" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/></a>
+   <a href="#"><img height="50" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
+   <a href="#"><img height="50" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/></a>
+   <a href="#"><img height="50" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/></a>
+   <a href="#"><img height="50" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/></a>
+   <a href="#"><img height="50" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></a>
+   <a href="#"><img height="50" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></a>
 </div><br/>
 
 <!--' GRÁFICO VERTICAL ##### '-->
 
 [![My Graph](https://github-readme-activity-graph.vercel.app/graph?username=QravaTTacker&bg_color=1e0c20&custom_title=Gráfico%20de%20Contribuições&hide_title=true&color=61fec9&line=a277ff&point=f694ff&area=true&hide_border=true&radius=16&hide_title=true&theme=modern-lilac)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
+<a href="#"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/></a>
 <br/>
 
 <div align="center">
@@ -195,7 +195,7 @@ public class Main {
       </a><br/><br/>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+<a href="#"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/></a>
 
 ### _Link Customs_
 
