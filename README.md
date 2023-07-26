@@ -1,60 +1,53 @@
 <div id="INTRO" align="center">
       <a href="#none">
-            <img alt="Linha RGB" width="100%" 
-            src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"/>
-      </a><br/><br/>
+            <img alt="Capsule Render" width=100% 
+            src="https://capsule-render.vercel.app/api?type=waving&fontColor=ffffff&color=0:622d6a,100:8461cf&height=120&section=header"/>
+      </a>
       <a href="#none">
-            <img alt="Label de escrita dinâmica"
+            <img alt="Readme Typing"
             src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=20&duration=4000&pause=500&color=61FFCA&center=true&width=435&lines=Análise+e+Desnevolvimento+de+Sistemas;Estudando+JavaScript+e+PHP;FullStack+WEB"/>
       </a>
 </div>
 <div id="ABOUT-ME">
-      <p align="justify">
-            <strong>Eai... como vai?</strong><br>
-            Me chamo <del>Cristian</del> <ins>QravaTTacker</ins>, espero que esteja bem! Esse é o meu perfil do Github <strong>dedicado para estudos pessoais</strong> e provavelmente a rede que mais pretendo ficar ativo. Segue abaixo algumas <strong>infos</strong> gerais sobre mim...
-      </p>
 
 ```JAVA
-package github;
+      Person eu = new Person();
+      eu.name = "Cristian Pessotto";
+      eu.email = "cristian.pessotto@gmail.com";
+      eu.age = 21; //estou ficando velho ;-;
+```
 
-import java.util.ArrayList;
-import java.util.Arrays;
+<p align="justify">
+      <strong>Eai... como vai?</strong><br>
+      Me chamo <del>Cristian</del> <ins>QravaTTacker</ins>, espero que esteja bem! Esse é o meu perfil do Github <strong>dedicado para estudos pessoais</strong> e provavelmente a rede que mais pretendo ficar ativo. Segue abaixo algumas <strong>infos</strong> gerais sobre mim...
+</p>
 
-public class Main {
-    public static void main(String[] args) {
-
-        Person eu = new Person();
-
-        eu.name = "Cristian Pessotto";
-        eu.email = "cristian.pessotto@gmail.com";
-        eu.age = 21; //estou MUITO velho mds 1-1
-
-        eu.languages = new ArrayList<>(Arrays.asList(
+```JAVA
+      eu.languages = new ArrayList<>(Arrays.asList(
             "JavaScript",
             "PHP",
             "HTML",
             "CSS"));
 
-        eu.frameworksAndLibs = new ArrayList<>(Arrays.asList(
+      eu.frameworksAndLibs = new ArrayList<>(Arrays.asList(
             "React",
             "Laravel",
             "Bootstrap",
             "Spring"));
 
-        eu.foods = new ArrayList<>(Arrays.asList(
+      eu.foods = new ArrayList<>(Arrays.asList(
             "Estrogonofe",
             "Pizza",
             "Snickers",
             "Energético"));
 
-        eu.songs = new ArrayList<>(Arrays.asList(
+      eu.songs = new ArrayList<>(Arrays.asList(
             "Lo-Fi",
             "Rock",
             "Synthwave",
             "Dark Techno"));
 
-        ArrayList<ArrayList<String>> lists = new ArrayList<>
-        (Arrays.asList(
+      ArrayList<ArrayList<String>> lists = new ArrayList<>(Arrays.asList(
             eu.languages,
             eu.frameworksAndLibs,
             eu.foods,
@@ -82,7 +75,7 @@ public class Main {
       </a>
       <h3><em><strong>Escute comigo ai</strong></em> 😏</h3>
       <a href="https://spotify-github-profile.vercel.app/api/view?uid=31rkyoczqj5ax3mrymmjusvvdode&redirect=true">
-            <img alt="Widget do Spotify para o perfil do Github" 
+            <img alt="Spotify" 
             src="https://spotify-github-profile.vercel.app/api/view?uid=31rkyoczqj5ax3mrymmjusvvdode&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
       </a>
       <a href="#none">
@@ -91,124 +84,124 @@ public class Main {
       </a>
 </div>
 <div id="LINGUAGENS-TOOLS" align="center">
-      <h3><em><strong>Linguagens e Ferramentas</strong></em> 👾</h3>
+      <h3><em><strong>Ferramentas e Plataformas</strong></em> 👾</h3>
       <table>
             <tr>
-                  <td>
+                  <th valign="center">
+                        Linguagens
+                  </th>
+                  <td valign="center">
                         Language
                   </td>
-                  <td>
+                  <td valign="center">
                         Language
                   </td>
-                  <td>
+                  <td valign="center">
                         Language
                   </td>
-                  <td>
-                        Language
-                  </td>
-                  <td>
-                        Language
-                  </td>
-            </tr>
-            <tr>
-                  <td>
-                        Language
-                  </td>
-                  <td>
-                        Language
-                  </td>
-                  <td>
-                        Language
-                  </td>
-                  <td>
-                        Language
-                  </td>
-                  <td>
+                  <td valign="center">
                         Language
                   </td>
             </tr>
             <tr>
-                  <td>
+                  <th valign="center">
+                        Frameworks
+                  </th>
+                  <td valign="center">
                         Language
                   </td>
-                  <td>
+                  <td valign="center">
                         Language
                   </td>
-                  <td>
+                  <td valign="center">
                         Language
                   </td>
-                  <td>
-                        Language
-                  </td>
-                  <td>
-                        Language
-                  </td>
-            </tr>
-            <tr>
-                  <td>
-                        Language
-                  </td>
-                  <td>
-                        Language
-                  </td>
-                  <td>
-                        Language
-                  </td>
-                  <td>
-                        Language
-                  </td>
-                  <td>
+                  <td valign="center">
                         Language
                   </td>
             </tr>
             <tr>
-                  <td>
+                  <th valign="center">
+                        Banco de Dados
+                  </th>
+                  <td valign="center">
                         Language
                   </td>
-                  <td>
+                  <td valign="center">
                         Language
                   </td>
-                  <td>
+                  <td valign="center">
                         Language
                   </td>
-                  <td>
-                        Language
-                  </td>
-                  <td>
-                        Language
-                  </td>
-            </tr>
-            <tr>
-                  <td>
-                        Language
-                  </td>
-                  <td>
-                        Language
-                  </td>
-                  <td>
-                        Language
-                  </td>
-                  <td>
-                        Language
-                  </td>
-                  <td>
+                  <td valign="center">
                         Language
                   </td>
             </tr>
             <tr>
-                  <td>
+                  <th valign="center">
+                        Language
+                  </th>
+                  <td valign="center">
                         Language
                   </td>
-                  <td>
+                  <td valign="center">
                         Language
                   </td>
-                  <td>
+                  <td valign="center">
                         Language
                   </td>
-                  <td>
+                  <td valign="center">
                         Language
                   </td>
-                  <td>
+            </tr>
+            <tr>
+                  <th valign="center">
+                        Language
+                  </th>
+                  <td valign="center">
+                        Language
+                  </td>
+                  <td valign="center">
+                        Language
+                  </td>
+                  <td valign="center">
+                        Language
+                  </td>
+                  <td valign="center">
+                        Language
+                  </td>
+            </tr>
+            <tr>
+                  <th valign="center">
+                        Language
+                  </th>
+                  <td valign="center">
+                        Language
+                  </td>
+                  <td valign="center">
+                        Language
+                  </td>
+                  <td valign="center">
+                        Language
+                  </td>
+                  <td valign="center">
+                        Language
+                  </td>
+            </tr>
+            <tr>
+                  <th valign="center">
+                        Language
+                  </th>
+                  <td valign="center">
+                        Language
+                  </td>
+                  <td valign="center">
+                        Language
+                  </td>
+                  <td valign="center">
+                        Language
+                  </td>
+                  <td valign="center">
                         Language
                   </td>
             </tr>
@@ -369,9 +362,6 @@ public class Main {
 <div align="center">
       <a href="https://github.com/qravattacker/basic-tools">
             <img height="115" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qravattacker&repo=basic-tools&theme=aura&bg_color=deg,2a0027,15131b&border_color=503b7e" />
-      </a>
-      <a href="https://github.com/qravattacker/languagens">
-            <img height="115" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qravattacker&repo=languagensthee=aura&bg_color=deg,2a0027,15131b&border_color=503b7e" />
       </a><br/><br/>
 </div>
 
@@ -432,6 +422,12 @@ public class Main {
             <li>
                   Widget de status  👉🏼 
                   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_black">
+                        <em><strong>github</strong></em>
+                  </a>
+            </li>
+            <li>
+                  Capsule Render  👉🏼 
+                  <a href="https://github.com/kyechan99/capsule-render" target="_black">
                         <em><strong>github</strong></em>
                   </a>
             </li>
