@@ -1,7 +1,7 @@
 <div id="INTRO" align="center">
       <a href="#none">
             <img alt="Capsule Render" width=100% 
-            src="https://capsule-render.vercel.app/api?type=waving&fontColor=ffffff&color=0:622d6a,100:8461cf&height=120&section=header"/>
+            src="https://capsule-render.vercel.app/api?type=waving&fontColor=ffffff&color=40:622d6a,100:51cf98&height=120&section=header&desc=Seja%20Bem-vindo!&&animation="/>
       </a>
       <a href="#none">
             <img alt="Readme Typing"
@@ -11,10 +11,10 @@
 <div id="ABOUT-ME">
 
 ```JAVA
-      Person eu = new Person();
-      eu.name = "Cristian Pessotto";
-      eu.email = "cristian.pessotto@gmail.com";
-      eu.age = 21; //estou ficando velho ;-;
+      Person qravattacker = new Person();
+      qravattacker.name = "Cristian Pessotto";
+      qravattacker.email = "cristian.pessotto@gmail.com";
+      qravattacker.age = 21; //estou ficando velho ;-;
 ```
 
 <p align="justify">
