@@ -5,22 +5,34 @@
       </a>
       <a href="#none">
             <img alt="Readme Typing"
-            src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=20&duration=4000&pause=500&color=61FFCA&center=true&width=435&lines=Análise+e+Desnevolvimento+de+Sistemas;Estudando+JavaScript+e+PHP;FullStack+WEB"/>
+            src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=20&duration=4000&pause=500&color=61FFCA&center=true&width=435&lines=Análise+e+Desenvolvimento+de+Sistemas;Estudando+Javascript+e+PHP;Fullstack+WEB"/>
       </a>
 </div>
 <div id="ABOUT-ME">
+
+<code>
+      printf("Hello, World!");
+</code>
+<pre>
+      printf("Hello, World!");
+</pre>
+<code>
+      <pre>
+            printf("Hello, World!");
+      </pre>
+</code>
 
 ```JAVA
       Developer qravattacker = new Developer();
       qravattacker.name = "Cristian Pessotto";
       qravattacker.email = "cristian.pessotto@gmail.com";
       qravattacker.age = 21; //estou ficando velho ;-;
-      qravattacker.stack = "WEB";
+      qravattacker.stack = "Web";
 ```
 
 <p align="justify">
-      <strong>Eai... como vai?</strong><br>
-      Me chamo <del>Cristian</del> <ins>QravaTTacker</ins>, espero que esteja bem! Esse é o meu perfil do Github <strong>dedicado para estudos pessoais</strong> e provavelmente a rede que mais pretendo ficar ativo. Segue abaixo algumas <strong>infos</strong> gerais sobre mim...
+      <em><strong>Eai... como vai?</strong></em><br>
+      Me chamo <del>Cristian</del> <ins>QravaTTacker</ins>, espero que esteja bem! Esse é o meu perfil do Github <strong>dedicado para estudos pessoais</strong> e provavelmente a rede que mais pretendo ficar ativo.
 </p>
 <p align="justify">
       Não sou apegado em nenhuma linguagem de programação, por esse motivo sempre estou estudando um pouco de tudo. Comecei com <strong>Python</strong> durante o ensino médio, depois parti para <strong>C</strong> na faculdade. Atualmente, estou estudando Estruturas de Dados e OOP com <strong>Java</strong> e desenvolvimento web com <strong>PHP</strong> e <strong>JS</strong>. Além dessas três linguagens, gosto bastante de estudar <strong>C/C++</strong> em OFF...
