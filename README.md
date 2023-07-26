@@ -1,7 +1,7 @@
 <div id="INTRO" align="center">
       <a href="#none">
             <img alt="Capsule Render" width=100% 
-            src="https://capsule-render.vercel.app/api?type=waving&fontColor=ffffff&color=40:622d6a,100:51cf98&height=120&section=header&desc=Seja%20Bem-vindo!&&animation="/>
+            src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:622d6a,100:51cf98&height=120&section=header&text=Cristian%20Pessotto&fontSize=50&animation=fadeIn"/>
       </a>
       <a href="#none">
             <img alt="Readme Typing"
@@ -11,15 +11,19 @@
 <div id="ABOUT-ME">
 
 ```JAVA
-      Person qravattacker = new Person();
+      Developer qravattacker = new Developer();
       qravattacker.name = "Cristian Pessotto";
       qravattacker.email = "cristian.pessotto@gmail.com";
       qravattacker.age = 21; //estou ficando velho ;-;
+      qravattacker.stack = "WEB";
 ```
 
 <p align="justify">
       <strong>Eai... como vai?</strong><br>
       Me chamo <del>Cristian</del> <ins>QravaTTacker</ins>, espero que esteja bem! Esse é o meu perfil do Github <strong>dedicado para estudos pessoais</strong> e provavelmente a rede que mais pretendo ficar ativo. Segue abaixo algumas <strong>infos</strong> gerais sobre mim...
+</p>
+<p align="justify">
+      Não sou apegado em nenhuma linguagem de programação, por esse motivo sempre estou estudando um pouco de tudo. Comecei com <strong>Python</strong> durante o ensino médio, depois parti para <strong>C</strong> na faculdade. Atualmente, estou estudando Estruturas de Dados e OOP com <strong>Java</strong> e desenvolvimento web com <strong>PHP</strong> e <strong>JS</strong>. Além dessas três linguagens, gosto bastante de estudar <strong>C/C++</strong> em OFF...
 </p>
 
 ```JAVA
@@ -66,9 +70,6 @@
 ```
 
 <hr/>
-      <p align="justify">
-            Não sou apegado em nenhuma linguagem de programação, por esse motivo sempre estou estudando um pouco de tudo. Comecei com <strong>Python</strong> durante o ensino médio, depois parti para <strong>C</strong> na faculdade. Atualmente, estou estudando Estruturas de Dados e OOP com <strong>Java</strong> e desenvolvimento web com <strong>PHP</strong> e <strong>JS</strong>. Além dessas três linguagens, gosto bastante de estudar <strong>C/C++</strong> em OFF...
-      </p>
       <a href="#none">
             <img align="right" height="150" width="150" alt="My Gif" title=";-;" 
             src="https://cdn.discordapp.com/attachments/1092414380198592555/1131729561038618735/7t8g23.gif" />
