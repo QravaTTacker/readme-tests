@@ -10,18 +10,6 @@
 </div>
 <div id="ABOUT-ME">
 
-<code>
-      printf("Hello, World!");
-</code>
-<pre>
-      printf("Hello, World!");
-</pre>
-<code>
-      <pre>
-            printf("Hello, World!");
-      </pre>
-</code>
-
 ```JAVA
       Developer qravattacker = new Developer();
       qravattacker.name = "Cristian Pessotto";
