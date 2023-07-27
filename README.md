@@ -19,11 +19,34 @@
       }
 ```
 
-<p align="justify">
-      <em><strong>Eai... como vai?</strong></em><br>
-      Me chamo <del>Cristian</del> <ins>QravaTTacker</ins>, espero que esteja bem! Esse é o meu perfil do Github <strong>dedicado para estudos pessoais</strong> e provavelmente a rede que mais pretendo ficar ativo.<br/>
-      Não sou apegado à nenhuma linguagem, por esse motivo sempre estou estudando um pouco de tudo. Sou aquilo se chamam de <strong>profissional generalista</strong>. Comecei com <strong>Python</strong> durante o ensino médio, depois parti para <strong>C</strong> na faculdade e atualmente estou estudando Estruturas de Dados e OOP com <strong>Java</strong>, além de desenvolvimento web com <strong>PHP</strong> e <strong>JS</strong>.
-</p>
+<div>
+      <p align="justify">
+            <em><strong>Eai... como vai?</strong></em><br>
+            Me chamo <del>Cristian</del> <ins>QravaTTacker</ins>, espero que esteja bem! Esse é o meu perfil do Github <strong>dedicado para estudos pessoais</strong> e provavelmente a rede que mais pretendo ficar ativo.<br/>
+            Não sou apegado à nenhuma linguagem, por esse motivo sempre estou estudando um pouco de tudo. Sou aquilo se chamam de <strong>profissional generalista</strong>. Comecei com <strong>Python</strong> durante o ensino médio, depois parti para <strong>C</strong> na faculdade e atualmente estou estudando Estruturas de Dados e OOP com <strong>Java</strong>. Além disso, foco meus estudos em desenvolvimento web com <strong>PHP</strong> e <strong>JS</strong>.
+      </p>
+</div>
+<div align="center">
+       <a href="#none">
+            <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-14151f?style=for-the-badge&logo=linkedin&logoColor=0077b5">
+      </a>
+       <a href="#none">
+            <img alt="Static Badge" 
+                  src="https://img.shields.io/badge/instagram-14151f?style=for-the-badge&logo=instagram">
+      </a>
+       <a href="#none">
+            <img alt="Static Badge" 
+                  src="https://img.shields.io/badge/twitter-14151f?style=for-the-badge&logo=twitter">
+      </a>
+       <a href="#none">
+            <img alt="Static Badge" 
+                  src="https://img.shields.io/badge/youtube-14151f?style=for-the-badge&logo=youtube&logoColor=ff0000">
+      </a>
+        <a href="#none">
+            <img alt="Linha RGB" width="100%"
+            src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"/>
+      </a>
+</div>
 
 ```JAVA
       Developer qttck = new Developer();
@@ -62,7 +85,9 @@
                   System.out.println(element);
             });
       });
+```
 
+```php
       $qttck->setFoods(
             [
                   "Estrogonofe",
@@ -384,10 +409,6 @@
 
 <a href="#none"><img alt="Linha RGB" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/></a>
 
-### _Link Customs_
-
-[![Static Badge](https://img.shields.io/badge/LinkedIn-14151f?style=for-the-badge&logo=LinkedIn)](https://github.com/QravaTTacker)
-
 <h3>
       <em><strong>Repositórios, API's e Ferramentas que utilizei</strong></em>
 </h3>
@@ -451,3 +472,8 @@
       </ul>
 </details>
 </strong><em>
+
+<a href="#none">
+      <img alt="Capsule Render" width=100% 
+      src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:622d6a,100:51cf98&height=120&section=footer&animation=fadeIn"/>
+</a>
