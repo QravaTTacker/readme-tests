@@ -5,7 +5,7 @@
       </a>
       <a href="#none">
             <img alt="Readme Typing"
-            src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=20&duration=4000&pause=500&color=61FFCA&center=true&width=435&lines=Análise+e+Desenvolvimento+de+Sistemas;Estudando+Javascript+e+PHP;Fullstack+WEB"/>
+            src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=20&duration=4000&pause=500&color=61FFCA&center=true&width=435&lines=Análise+e+Desenvolvimento+de+Sistemas;Estudando+Javascript+e+PHP;Fullstack+Web"/>
       </a>
 </div>
 <div id="ABOUT-ME">
@@ -20,10 +20,8 @@
 
 <p align="justify">
       <em><strong>Eai... como vai?</strong></em><br>
-      Me chamo <del>Cristian</del> <ins>QravaTTacker</ins>, espero que esteja bem! Esse é o meu perfil do Github <strong>dedicado para estudos pessoais</strong> e provavelmente a rede que mais pretendo ficar ativo.
-</p>
-<p align="justify">
-      Não sou apegado em nenhuma linguagem de programação, por esse motivo sempre estou estudando um pouco de tudo. Comecei com <strong>Python</strong> durante o ensino médio, depois parti para <strong>C</strong> na faculdade. Atualmente, estou estudando Estruturas de Dados e OOP com <strong>Java</strong> e desenvolvimento web com <strong>PHP</strong> e <strong>JS</strong>. Além dessas três linguagens, gosto bastante de estudar <strong>C/C++</strong> em OFF...
+      Me chamo <del>Cristian</del> <ins>QravaTTacker</ins>, espero que esteja bem! Esse é o meu perfil do Github <strong>dedicado para estudos pessoais</strong> e provavelmente a rede que mais pretendo ficar ativo.<br/>
+      Não sou apegado à nenhuma linguagem, por esse motivo sempre estou estudando um pouco de tudo. Comecei com <strong>Python</strong> durante o ensino médio, depois parti para <strong>C</strong> na faculdade. Atualmente, estou estudando Estruturas de Dados e OOP com <strong>Java</strong>, tenho, também, desenvolvimento web com <strong>PHP</strong> e <strong>JS</strong>. Além dessas três linguagens, gosto bastante de estudar <strong>C/C++</strong> em OFF, mas a minha queridinha do momento está sendo Java...
 </p>
 
 ```JAVA
@@ -65,8 +63,6 @@
                 System.out.println(element);
             });
         });
-    }
-}
 ```
 
 <hr/>
