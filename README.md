@@ -15,7 +15,7 @@
             name: "Cristian Pessotto",
             age: 21,
             email: "cristian.pessotto@gmail.com",
-            job: "Fullstack",
+            job: "Fullstack"
       }
 ```
 
@@ -28,22 +28,31 @@
 ```JAVA
       Developer qttck = new Developer();
 
-      qttck.languages = new ArrayList<>(Arrays.asList(
-            "JavaScript",
-            "PHP",
-            "Java",
-            "HTML",
-            "CSS"));
+      qttck.languages = new ArrayList<>(
+            Arrays.asList(
+                  "JavaScript",
+                  "PHP",
+                  "Java",
+                  "HTML",
+                  "CSS"
+            )
+      );
 
-      qttck.frameworksAndLibs = new ArrayList<>(Arrays.asList(
-            "React",
-            "Laravel",
-            "Bootstrap",
-            "Spring"));
+      qttck.frameworksAndLibs = new ArrayList<>(
+            Arrays.asList(
+                  "React",
+                  "Laravel",
+                  "Bootstrap",
+                  "Spring"
+            )
+      );
 
-      ArrayList<ArrayList<String>> lists = new ArrayList<>(Arrays.asList(
-            qttck.languages,
-            qttck.frameworksAndLibs));
+      ArrayList<ArrayList<String>> lists = new ArrayList<>(
+            Arrays.asList(
+                  qttck.languages,
+                  qttck.frameworksAndLibs
+            )
+      );
 
       final String line = "-".repeat(20);
 
@@ -59,7 +68,7 @@
                   "Estrogonofe",
                   "Pizza",
                   "Snickers",
-                  "Energético",
+                  "Energético"
             ]
       );
 
