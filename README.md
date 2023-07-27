@@ -1,7 +1,7 @@
 <div id="INTRO" align="center">
       <a href="#none">
             <img alt="Capsule Render" width=100% 
-            src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:622d6a,100:51cf98&height=120&section=header&text=Cristian%20Pessotto&fontSize=50&animation=fadeIn"/>
+            src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:622d6a,100:51cf98&height=120&section=header&text=QravaTTacker&fontSize=50&animation=fadeIn"/>
       </a>
       <a href="#none">
             <img alt="Readme Typing"
@@ -10,59 +10,70 @@
 </div>
 <div id="ABOUT-ME">
 
-```JAVA
-      Developer qravattacker = new Developer();
-      qravattacker.name = "Cristian Pessotto";
-      qravattacker.email = "cristian.pessotto@gmail.com";
-      qravattacker.age = 21; //estou ficando velho ;-;
-      qravattacker.stack = "Web";
+```js
+      const qravattacker {
+            name: "Cristian Pessotto",
+            age: 21,
+            email: "cristian.pessotto@gmail.com",
+            job: "Fullstack",
+      }
 ```
 
 <p align="justify">
       <em><strong>Eai... como vai?</strong></em><br>
       Me chamo <del>Cristian</del> <ins>QravaTTacker</ins>, espero que esteja bem! Esse é o meu perfil do Github <strong>dedicado para estudos pessoais</strong> e provavelmente a rede que mais pretendo ficar ativo.<br/>
-      Não sou apegado à nenhuma linguagem, por esse motivo sempre estou estudando um pouco de tudo. Comecei com <strong>Python</strong> durante o ensino médio, depois parti para <strong>C</strong> na faculdade. Atualmente, estou estudando Estruturas de Dados e OOP com <strong>Java</strong>, tenho, também, desenvolvimento web com <strong>PHP</strong> e <strong>JS</strong>. Além dessas três linguagens, gosto bastante de estudar <strong>C/C++</strong> em OFF, mas a minha queridinha do momento está sendo Java...
+      Não sou apegado à nenhuma linguagem, por esse motivo sempre estou estudando um pouco de tudo. Sou aquilo se chamam de <strong>profissional generalista</strong>. Comecei com <strong>Python</strong> durante o ensino médio, depois parti para <strong>C</strong> na faculdade e atualmente estou estudando Estruturas de Dados e OOP com <strong>Java</strong>, além de desenvolvimento web com <strong>PHP</strong> e <strong>JS</strong>.
 </p>
 
 ```JAVA
-      eu.languages = new ArrayList<>(Arrays.asList(
+      Developer qttck = new Developer();
+
+      qttck.languages = new ArrayList<>(Arrays.asList(
             "JavaScript",
             "PHP",
+            "Java",
             "HTML",
             "CSS"));
 
-      eu.frameworksAndLibs = new ArrayList<>(Arrays.asList(
+      qttck.frameworksAndLibs = new ArrayList<>(Arrays.asList(
             "React",
             "Laravel",
             "Bootstrap",
             "Spring"));
 
-      eu.foods = new ArrayList<>(Arrays.asList(
-            "Estrogonofe",
-            "Pizza",
-            "Snickers",
-            "Energético"));
-
-      eu.songs = new ArrayList<>(Arrays.asList(
-            "Lo-Fi",
-            "Rock",
-            "Synthwave",
-            "Dark Techno"));
-
       ArrayList<ArrayList<String>> lists = new ArrayList<>(Arrays.asList(
-            eu.languages,
-            eu.frameworksAndLibs,
-            eu.foods,
-            eu.songs));
+            qttck.languages,
+            qttck.frameworksAndLibs));
 
-        final String line = "-".repeat(20);
+      final String line = "-".repeat(20);
 
-        lists.stream().forEach(category -> {
+      lists.stream().forEach(category -> {
             System.out.println(line);
             category.stream().forEach(element -> {
-                System.out.println(element);
+                  System.out.println(element);
             });
-        });
+      });
+
+      $qttck->setFoods(
+            [
+                  "Estrogonofe",
+                  "Pizza",
+                  "Snickers",
+                  "Energético",
+            ]
+      );
+
+      $qttck->setSongs(
+            [
+                  "Lo-Fi",
+                  "Rock",
+                  "Dark Techno",
+                  "Synthwave"
+            ]
+      );
+
+      print_r($qttck->getFoods());
+      print_r($qttck->getSongs());
 ```
 
 <hr/>
