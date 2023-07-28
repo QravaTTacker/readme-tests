@@ -40,7 +40,7 @@
       </a>
        <a href="#none">
             <img alt="Static Badge" 
-                  src="https://img.shields.io/badge/youtube-14151f?style=for-the-badge&logo=youtube&logoColor=ff0000">
+                        src="https://img.shields.io/badge/youtube-14151f?style=for-the-badge&logo=youtube&logoColor=ff0000">
       </a>
         <a href="#none">
             <img alt="Linha RGB" width="100%"
@@ -50,7 +50,6 @@
 
 ```JAVA
       Developer qttck = new Developer();
-
       qttck.languages = new ArrayList<>(
             Arrays.asList(
                   "JavaScript",
@@ -60,7 +59,6 @@
                   "CSS"
             )
       );
-
       qttck.frameworksAndLibs = new ArrayList<>(
             Arrays.asList(
                   "React",
@@ -69,18 +67,13 @@
                   "Spring"
             )
       );
-
       ArrayList<ArrayList<String>> lists = new ArrayList<>(
             Arrays.asList(
                   qttck.languages,
                   qttck.frameworksAndLibs
             )
       );
-
-      final String line = "-".repeat(20);
-
       lists.stream().forEach(category -> {
-            System.out.println(line);
             category.stream().forEach(element -> {
                   System.out.println(element);
             });
@@ -96,7 +89,6 @@
                   "Energético"
             ]
       );
-
       $qttck->setSongs(
             [
                   "Lo-Fi",
@@ -105,7 +97,6 @@
                   "Synthwave"
             ]
       );
-
       print_r($qttck->getFoods());
       print_r($qttck->getSongs());
 ```
@@ -365,48 +356,35 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
       </a>
 </div><br/>
-
-<!--' GRÁFICO VERTICAL ##### '-->
-
-[![My Graph](https://github-readme-activity-graph.vercel.app/graph?username=QravaTTacker&bg_color=1e0c20&custom_title=Gráfico%20de%20Contribuições&hide_title=true&color=61fec9&line=a277ff&point=f694ff&area=true&hide_border=true&radius=16&hide_title=true&theme=modern-lilac)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-<a href="#none">
-      <img alt="Linha RGB" width="100%" 
-      src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"/>
-</a>
-
 <div align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=qravattacker&theme=gruvbox&row=1&column=7&margin-w=10&margin-h=10&no-frame=true"/>
-</div>
-
-<!--' STATUS ############################################### '-->
-
-<div align="center">
+      <!-- GRÁFICO VERTICAL -->
+      <a href="#none">
+            <img alt="My Graph" 
+            src="https://github-readme-activity-graph.vercel.app/graph?username=QravaTTacker&bg_color=1e0c20&custom_title=Gráfico%20de%20Contribuições&hide_title=true&color=61fec9&line=a277ff&point=f694ff&area=true&hide_border=true&radius=16&hide_title=true&theme=modern-lilac">
+      </a>
+      <!-- TROFÉUS -->
+      <a href="#none">
+            <img src="https://github-profile-trophy.vercel.app/?username=qravattacker&theme=gruvbox&row=1&column=7&margin-w=10&margin-h=10&no-frame=true"/>
+      </a>
       <!-- STREAK -->
-      <a href="https://git.io/streak-stats">
-      <img height="200" align="center" src="https://streak-stats.demolab.com?user=qravattacker&theme=aura&border_radius=6&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&background=45%2C15141B%2C2B0028&fire=f693ff&bordr=50b7e" />
+      <a href="#none">
+            <img height="200"  src="https://streak-stats.demolab.com?user=qravattacker&theme=aura&border_radius=6&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&background=45%2C15141B%2C2B0028&fire=f693ff&bordr=50b7e" />
       </a><br/><br/>
       <!-- LANGUAGES -->
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qravattacker&theme=aura&bg_color=deg,15131b,2a0027&hide_progress=false&layout=compact&custom_title=Linguagens&langs_count=12&border_color=503b7e" />
+      <a href="#none">
+            <img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qravattacker&theme=aura&bg_color=deg,15131b,2a0027&hide_progress=false&layout=compact&custom_title=Linguagens&langs_count=12&border_color=503b7e" />
       </a>
       <!-- STATUS -->
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=qravattacker&theme=aura&show_icons=true&bg_color=deg,15131b,2a0027&border_color=503b7e" />
+      <a href="#none">
+            <img height="200"  src="https://github-readme-stats.vercel.app/api?username=qravattacker&theme=aura&show_icons=true&bg_color=deg,15131b,2a0027&border_color=503b7e" />
       </a>
-</div>
-
-<!--' REPOSITÓRIOS ######### '-->
-
-<h2 style="color:#ff00ff"><em>Repositórios</em></h2>
-<br/>
-
-<div align="center">
+      <!-- REPOSITÓRIOS -->
+      <h2 align="left"><em>Repositórios</em></h2>
+      <br/>
       <a href="https://github.com/qravattacker/basic-tools">
-            <img height="115" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qravattacker&repo=basic-tools&theme=aura&bg_color=deg,2a0027,15131b&border_color=503b7e" />
+            <img height="115"  src="https://github-readme-stats.vercel.app/api/pin/?username=qravattacker&repo=basic-tools&theme=aura&bg_color=deg,2a0027,15131b&border_color=503b7e" />
       </a><br/><br/>
 </div>
-
 <a href="#none"><img alt="Linha RGB" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/></a>
 
 <h3>
@@ -433,11 +411,11 @@
             </li>
             <li>
                   Logos e ícones 👉🏼 
-                  <a href="https://github.com/devicons/devicon"  target="_black">
+                  <a href="https://github.com/devicons/devicon" target="_black">
                         <em><strong>github</strong></em>
                   </a>
                   ou
-                  <a href="https://devicon.dev/"  target="_black">
+                  <a href="https://devicon.dev/" target="_black">
                         <em><strong>web</strong></em>
                   </a>
             </li>
@@ -458,8 +436,14 @@
                   </a>
             </li>
             <li>
-                  Widget de status  👉🏼 
-                  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_black">
+                  Gráfico de sequências  👉🏼 
+                  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_black">
+                        <em><strong>github</strong></em>
+                  </a>
+            </li>
+            <li>
+                  Status e linguagens 👉🏼 
+                  <a href="https://github.com/anuraghazra/github-readme-stats" target="_black">
                         <em><strong>github</strong></em>
                   </a>
             </li>
