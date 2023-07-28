@@ -32,8 +32,10 @@
       </p>
 </div>
 
-[teste](https://br.linkedin.com/in/cristian-pessotto-351426255)
-![teste2](https://br.linkedin.com/in/cristian-pessotto-351426255)
+[linkedIn](<![teste](https://br.linkedin.com/in/cristian-pessotto-351426255)>)
+
+[https://img.shields.io/badge/linkedin-14151f?style=for-the-badge&logo=linkedin&logoColor=0077b5](<![teste2](https://br.linkedin.com/in/cristian-pessotto-351426255)>)
+[https://img.shields.io/badge/linkedin-14151f?style=for-the-badge&logo=linkedin&logoColor=0077b5](<![teste2](https://br.linkedin.com/in/cristian-pessotto-351426255)>)
 
 <div align="center">
        <a href="https://br.linkedin.com/in/cristian-pessotto-351426255">
