@@ -21,7 +21,7 @@
             email: "cristian.pessotto@gmail.com",
             job: "Fullstack",
             location: "Paraná"
-      }
+      };
 ```
 
 <div>
@@ -61,9 +61,7 @@
             Arrays.asList(
                   "JavaScript",
                   "PHP",
-                  "Java",
-                  "HTML",
-                  "CSS"
+                  "Java"
             )
       );
       qttck.frameworksAndLibs = new ArrayList<>(
