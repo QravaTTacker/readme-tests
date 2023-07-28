@@ -9,13 +9,18 @@
       </a>
 </div>
 <div id="ABOUT-ME">
+      <a href="#none">
+                  <img alt="Linha RGB" 
+                  src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
+      </a>
 
 ```js
       const qravattacker {
             name: "Cristian Pessotto",
             age: 21,
             email: "cristian.pessotto@gmail.com",
-            job: "Fullstack"
+            job: "Fullstack",
+            location: "Paraná"
       }
 ```
 
@@ -27,18 +32,18 @@
       </p>
 </div>
 <div align="center">
-       <a href="#none">
+       <a href="https://br.linkedin.com/in/cristian-pessotto-351426255">
             <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-14151f?style=for-the-badge&logo=linkedin&logoColor=0077b5">
       </a>
-       <a href="#none">
+       <a href="https://www.instagram.com/qravattacker/">
             <img alt="Static Badge" 
                   src="https://img.shields.io/badge/instagram-14151f?style=for-the-badge&logo=instagram">
       </a>
-       <a href="#none">
+       <a href="https://twitter.com/QravaTTacker">
             <img alt="Static Badge" 
                   src="https://img.shields.io/badge/twitter-14151f?style=for-the-badge&logo=twitter">
       </a>
-       <a href="#none">
+       <a href="https://www.youtube.com/@qravattacker">
             <img alt="Static Badge" 
                         src="https://img.shields.io/badge/youtube-14151f?style=for-the-badge&logo=youtube&logoColor=ff0000">
       </a>
@@ -48,8 +53,9 @@
       </a>
 </div>
 
-```JAVA
+```java
       Developer qttck = new Developer();
+
       qttck.languages = new ArrayList<>(
             Arrays.asList(
                   "JavaScript",
@@ -63,43 +69,220 @@
             Arrays.asList(
                   "React",
                   "Laravel",
-                  "Bootstrap",
-                  "Spring"
+                  "Spring",
+                  "Bootstrap"
             )
       );
-      ArrayList<ArrayList<String>> lists = new ArrayList<>(
-            Arrays.asList(
-                  qttck.languages,
-                  qttck.frameworksAndLibs
-            )
-      );
-      lists.stream().forEach(category -> {
-            category.stream().forEach(element -> {
-                  System.out.println(element);
-            });
-      });
 ```
 
-```php
-      $qttck->setFoods(
-            [
-                  "Estrogonofe",
-                  "Pizza",
-                  "Snickers",
-                  "Energético"
-            ]
-      );
-      $qttck->setSongs(
-            [
-                  "Lo-Fi",
-                  "Rock",
-                  "Dark Techno",
-                  "Synthwave"
-            ]
-      );
-      print_r($qttck->getFoods());
-      print_r($qttck->getSongs());
-```
+<div id="LINGUAGENS-TOOLS" align="center">
+      <h3><em><strong>Ferramentas e Plataformas</strong></em> 👾</h3>
+      <table>
+            <tr align="center">
+                  <th valign="center">
+                        Linguagens
+                  </th>
+                  <td valign="center">
+                        <a href="#none">
+                              <img height="45" width="45" alt="JavaScript icon" title="JavaScript"
+                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+                        </a>
+                  </td>
+                  <td valign="center">
+                        <a href="#none">
+                              <img height="60" width="60" alt="PHP icon" title="PHP"
+                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+                        </a>
+                  </td>
+                  <td valign="center">
+                        <a href="#none">
+                              <img height="50" width="50" alt="Java icon" title="Java"
+                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+                        </a>
+                  </td>
+            </tr>
+            <tr align="center">
+                  <th valign="center">
+                        Frameworks
+                  </th>
+                  <td valign="center">
+                        <a href="#none">
+                              <img height="45" width="45" alt="Spring icon" title="Spring"
+                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+                        </a>
+                  </td>
+                  <td valign="center">
+                        <a href="#none">
+                              <img height="45" width="45" alt="Laravel icon" title="Laravel"
+                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
+                        </a>
+                  </td>
+                  <td valign="center">
+                        <a href="#none">
+                              <img height="45" width="45" alt="React icon" title="React"
+                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+                        </a>
+                  </td>
+                  <td valign="center">
+                        Language
+                  </td>
+            </tr>
+            <tr align="center">
+                  <th valign="center">
+                        Web Tools
+                  </th>
+                  <td valign="center">
+                        <a href="#none">
+                              <img height="45" width="45" alt="HTML5 icon" title="HTML5"
+                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+                        </a>
+                  </td>
+                  <td valign="center">
+                        <a href="#none">
+                              <img height="45" width="45" alt="CSS3 icon" title="CSS3"
+                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+                        </a>
+                  </td>
+                  <td valign="center">
+                        <a href="#none">
+                              <img height="45" width="45" alt="SASS icon" title="SASS"
+                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+                        </a>
+                  </td>
+                  <td valign="center">
+                        <a href="#none">
+                              <img height="45" width="45" alt="Bootstrap icon" title="Bootstrap"
+                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+                        </a>
+                  </td>
+            </tr>
+            <tr align="center">
+                  <th valign="center">
+                        Banco de Dados
+                  </th>
+                  <td valign="center">
+                        <a href="#none">
+                              <img height="45" width="45" alt="MYSQL icon" title="MYSQL"
+                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+                        </a>
+                  </td>
+                  <td valign="center">
+                        ...
+                  </td>
+                  <td valign="center">
+                        Language
+                  </td>
+                  <td valign="center">
+                        Language
+                  </td>
+            </tr>
+            <tr align="center">
+                  <th valign="center">
+                        Ambiente de Trabalho
+                  </th>
+                  <td valign="center">
+                        <a href="#none">
+                              <img height="40" width="40" alt="Windows icon" title="Windows"
+                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+                        </a>
+                  </td>
+                  <td valign="center">
+                          <a href="#none">
+                              <img height="45" width="45" alt="Ubuntu icon" title="Ubuntu"
+                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
+                        </a>
+                  </td>
+                  <td valign="center">
+                        <a href="#none">
+                              <img height="45" width="45" alt="VS Code icon" title="VS Code"
+                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+                        </a>
+                  </td>
+                  <td valign="center">
+                        <a href="#none">
+                              <img height="45" width="45" alt="JetBrains icon" title="JetBrains"
+                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/>
+                        </a>
+                  </td>
+            </tr>
+            <tr align="center">
+                  <th valign="center">
+                        Extras
+                  </th>
+                  <td valign="center">
+                        <a href="#none">
+                              <img height="45" width="45" alt="Composer icon" title="C Language" 
+                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
+                        </a>
+                  </td>
+                  <td valign="center">
+                        Language
+                  </td>
+                  <td valign="center">
+                        Language
+                  </td>
+                  <td valign="center">
+                        Language
+                  </td>
+            </tr>
+      </table>
+      <a href="#none">
+            <img height="45" width="45" alt="Python icon" title="Python"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+      </a>
+      <a href="#none">
+            <img height="45" width="45" alt="C icon" title="C Language"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+            </a>
+      <a href="#none">
+            <img height="45" width="45" alt="C++ icon" title="C++"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+      </a>
+      <a href="#none">
+            <img height="45" width="45" alt="MongoDB icon" title="MongoDB"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+      </a>
+      <a href="#none">
+            <img height="45" width="45" alt="NodeJS icon" title="NodeJS"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+      </a>
+      <a href="#none">
+            <img height="45" width="45" alt="Vim icon" title="Vim"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/>
+      </a>
+      <a href="#none">
+            <img height="45" width="45" alt="Ruby icon" title="Ruby"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
+      </a>
+      <a href="#none">
+            <img height="45" width="45" alt="Rust icon" title="Rust"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
+      </a>
+      <a href="#none">
+            <img height="45" width="45" alt="TypeScript icon" title="Kotlin"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+      </a>
+      <a href="#none">
+            <img height="45" width="45" alt="GIMP icon" title="GIMP"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"/>
+      </a>
+      <a href="#none">
+            <img height="45" width="45" alt="Git icon" title="Git"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+      </a>
+      <a href="#none">
+            <img height="45" width="45" alt="npm icon" title="npm"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
+      </a>
+      <a href="#none">
+            <img height="45" width="45" alt="Figma icon" title="Figma"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+      </a>
+      <a href="#none">
+            <img alt="Linha RGB" width="100%"
+            src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"/>
+      </a>
+</div>
 
 <hr/>
       <a href="#none">
@@ -116,246 +299,6 @@
             src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"/>
       </a>
 </div>
-<div id="LINGUAGENS-TOOLS" align="center">
-      <h3><em><strong>Ferramentas e Plataformas</strong></em> 👾</h3>
-      <table>
-            <tr>
-                  <th valign="center">
-                        Linguagens
-                  </th>
-                  <td valign="center">
-                        Language
-                  </td>
-                  <td valign="center">
-                        Language
-                  </td>
-                  <td valign="center">
-                        Language
-                  </td>
-                  <td valign="center">
-                        Language
-                  </td>
-            </tr>
-            <tr>
-                  <th valign="center">
-                        Frameworks
-                  </th>
-                  <td valign="center">
-                        Language
-                  </td>
-                  <td valign="center">
-                        Language
-                  </td>
-                  <td valign="center">
-                        Language
-                  </td>
-                  <td valign="center">
-                        Language
-                  </td>
-            </tr>
-            <tr>
-                  <th valign="center">
-                        Banco de Dados
-                  </th>
-                  <td valign="center">
-                        Language
-                  </td>
-                  <td valign="center">
-                        Language
-                  </td>
-                  <td valign="center">
-                        Language
-                  </td>
-                  <td valign="center">
-                        Language
-                  </td>
-            </tr>
-            <tr>
-                  <th valign="center">
-                        Language
-                  </th>
-                  <td valign="center">
-                        Language
-                  </td>
-                  <td valign="center">
-                        Language
-                  </td>
-                  <td valign="center">
-                        Language
-                  </td>
-                  <td valign="center">
-                        Language
-                  </td>
-            </tr>
-            <tr>
-                  <th valign="center">
-                        Language
-                  </th>
-                  <td valign="center">
-                        Language
-                  </td>
-                  <td valign="center">
-                        Language
-                  </td>
-                  <td valign="center">
-                        Language
-                  </td>
-                  <td valign="center">
-                        Language
-                  </td>
-            </tr>
-            <tr>
-                  <th valign="center">
-                        Language
-                  </th>
-                  <td valign="center">
-                        Language
-                  </td>
-                  <td valign="center">
-                        Language
-                  </td>
-                  <td valign="center">
-                        Language
-                  </td>
-                  <td valign="center">
-                        Language
-                  </td>
-            </tr>
-            <tr>
-                  <th valign="center">
-                        Language
-                  </th>
-                  <td valign="center">
-                        Language
-                  </td>
-                  <td valign="center">
-                        Language
-                  </td>
-                  <td valign="center">
-                        Language
-                  </td>
-                  <td valign="center">
-                        Language
-                  </td>
-            </tr>
-      </table>
-      <a href="#none">
-            <img height="50" width="50" alt="Python icon" title="Python"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="C icon" title="C Language"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-            </a>
-      <a href="#none">
-            <img height="50" width="50" alt="Java icon" title="Java"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-      </a>
-      <a href="#none">
-            <img height="60" width="60" alt="PHP icon" title="PHP"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="JavaScript icon" title="JavaScript"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="HTML5 icon" title="HTML5"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="CSS3 icon" title="CSS3"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="VS Code icon" title="VS Code"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="JetBrains icon" title="JetBrains"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="Bootstrap icon" title="Bootstrap"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="C++ icon" title="C++"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="Kotlin icon" title="Kotlin"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="MongoDB icon" title="MongoDB"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="MYSQL icon" title="MYSQL"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="NodeJS icon" title="NodeJS"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="SASS icon" title="SASS"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="Spring icon" title="Spring"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="Ubuntu icon" title="Ubuntu"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="Vim icon" title="Vim"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="Windows icon" title="Windows"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="React icon" title="React"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="Laravel icon" title="Laravel"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="Ruby icon" title="Ruby"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="Rust icon" title="Rust"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="TypeScript icon" title="Kotlin"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="GIMP icon" title="GIMP"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="Git icon" title="Git"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="npm icon" title="npm"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
-      </a>
-      <a href="#none">
-            <img height="50" width="50" alt="Figma icon" title="Figma"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-      </a>
-</div><br/>
 <div align="center">
       <!-- GRÁFICO VERTICAL -->
       <a href="#none">
@@ -368,8 +311,8 @@
       </a>
       <!-- STREAK -->
       <a href="#none">
-            <img height="200"  src="https://streak-stats.demolab.com?user=qravattacker&theme=aura&border_radius=6&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&background=45%2C15141B%2C2B0028&fire=f693ff&bordr=50b7e" />
-      </a><br/><br/>
+            <img height="200"  src="https://streak-stats.demolab.com?user=qravattacker&theme=aura&border_radius=6&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&background=45%2C15141B%2C2B0028&fire=f693ff&border=503B7E" />
+      </a><br/>
       <!-- LANGUAGES -->
       <a href="#none">
             <img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qravattacker&theme=aura&bg_color=deg,15131b,2a0027&hide_progress=false&layout=compact&custom_title=Linguagens&langs_count=12&border_color=503b7e" />
@@ -384,80 +327,85 @@
       <a href="https://github.com/qravattacker/basic-tools">
             <img height="115"  src="https://github-readme-stats.vercel.app/api/pin/?username=qravattacker&repo=basic-tools&theme=aura&bg_color=deg,2a0027,15131b&border_color=503b7e" />
       </a><br/><br/>
+      <a href="#none">
+            <img alt="Linha RGB" 
+            src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
+      </a>
 </div>
-<a href="#none"><img alt="Linha RGB" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/></a>
-
-<h3>
-      <em><strong>Repositórios, API's e Ferramentas que utilizei</strong></em>
-</h3>
-<em><strong>
-<details>
-      <ul>
-            <li>
-                  Escrita dinâmica 👉🏼
-                  <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_black">
-                        <em><strong>github</strong></em>
-                  </a>
-                  ou
-                  <a href="https://readme-typing-svg.demolab.com/demo/" target="_black">
-                        <em><strong>web</strong></em>
-                  </a>
-            </li>
-            <li>
-                  Música do Spotify 👉🏼 
-                  <a href="https://github.com/kittinan/spotify-github-profile" target="_black">
-                        <em><strong>github</strong></em>
-                  </a>
-            </li>
-            <li>
-                  Logos e ícones 👉🏼 
-                  <a href="https://github.com/devicons/devicon" target="_black">
-                        <em><strong>github</strong></em>
-                  </a>
-                  ou
-                  <a href="https://devicon.dev/" target="_black">
-                        <em><strong>web</strong></em>
-                  </a>
-            </li>
-            <li>
-                  Badges e tags 👉🏼 
-                  <a href="https://github.com/badges/shields" target="_black">
-                        <em><strong>github</strong></em>
-                  </a>
-                  ou
-                  <a href="https://shields.io/badges" target="_black">
-                        <em><strong>web</strong></em>
-                  </a>
-            </li>
-            <li>
-                  Gráfico de commits 👉🏼 
-                  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_black">
-                        <em><strong>github</strong></em>
-                  </a>
-            </li>
-            <li>
-                  Gráfico de sequências  👉🏼 
-                  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_black">
-                        <em><strong>github</strong></em>
-                  </a>
-            </li>
-            <li>
-                  Status e linguagens 👉🏼 
-                  <a href="https://github.com/anuraghazra/github-readme-stats" target="_black">
-                        <em><strong>github</strong></em>
-                  </a>
-            </li>
-            <li>
-                  Capsule Render  👉🏼 
-                  <a href="https://github.com/kyechan99/capsule-render" target="_black">
-                        <em><strong>github</strong></em>
-                  </a>
-            </li>
-      </ul>
-</details>
-</strong><em>
-
-<a href="#none">
-      <img alt="Capsule Render" width=100% 
-      src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:622d6a,100:51cf98&height=120&section=footer&animation=fadeIn"/>
-</a>
+<div>
+      <h3>
+            <em><strong>Repositórios, API's e Ferramentas que utilizei</strong></em>
+      </h3>
+      <em>
+      <strong>
+      <details>
+            <ul>
+                  <li>
+                        Escrita dinâmica 👉🏼
+                        <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_black">
+                              <em><strong>github</strong></em>
+                        </a>
+                        ou
+                        <a href="https://readme-typing-svg.demolab.com/demo/" target="_black">
+                              <em><strong>web</strong></em>
+                        </a>
+                  </li>
+                  <li>
+                        Música do Spotify 👉🏼 
+                        <a href="https://github.com/kittinan/spotify-github-profile" target="_black">
+                              <em><strong>github</strong></em>
+                        </a>
+                  </li>
+                  <li>
+                        Logos e ícones 👉🏼 
+                        <a href="https://github.com/devicons/devicon" target="_black">
+                              <em><strong>github</strong></em>
+                        </a>
+                        ou
+                        <a href="https://devicon.dev/" target="_black">
+                              <em><strong>web</strong></em>
+                        </a>
+                  </li>
+                  <li>
+                        Badges e tags 👉🏼 
+                        <a href="https://github.com/badges/shields" target="_black">
+                              <em><strong>github</strong></em>
+                        </a>
+                        ou
+                        <a href="https://shields.io/badges" target="_black">
+                              <em><strong>web</strong></em>
+                        </a>
+                  </li>
+                  <li>
+                        Gráfico de commits 👉🏼 
+                        <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_black">
+                              <em><strong>github</strong></em>
+                        </a>
+                  </li>
+                  <li>
+                        Gráfico de sequências  👉🏼 
+                        <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_black">
+                              <em><strong>github</strong></em>
+                        </a>
+                  </li>
+                  <li>
+                        Status e linguagens 👉🏼 
+                        <a href="https://github.com/anuraghazra/github-readme-stats" target="_black">
+                              <em><strong>github</strong></em>
+                        </a>
+                  </li>
+                  <li>
+                        Capsule Render  👉🏼 
+                        <a href="https://github.com/kyechan99/capsule-render" target="_black">
+                              <em><strong>github</strong></em>
+                        </a>
+                  </li>
+            </ul>
+      </details>
+      </strong>
+      <em>
+      <a href="#none">
+            <img alt="Capsule Render" width=100% 
+            src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:622d6a,100:51cf98&height=120&section=footer&animation=fadeIn"/>
+      </a>
+</div>
