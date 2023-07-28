@@ -31,26 +31,24 @@
             Não sou apegado à nenhuma linguagem, por esse motivo sempre estou estudando um pouco de tudo. Sou aquilo se chamam de <strong>profissional generalista</strong>. Comecei com <strong>Python</strong> durante o ensino médio, depois parti para <strong>C</strong> na faculdade e atualmente estou estudando Estruturas de Dados e OOP com <strong>Java</strong>. Além disso, foco meus estudos em desenvolvimento web com <strong>PHP</strong> e <strong>JS</strong>.
       </p>
 </div>
-
-[![icon](https://img.shields.io/badge/linkedin-14151f?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://br.linkedin.com/in/cristian-pessotto-351426255)
-
 <div align="center">
-       <a target="_blank" href="https://br.linkedin.com/in/cristian-pessotto-351426255">
-            <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-14151f?style=for-the-badge&logo=linkedin&logoColor=0077b5">
-      </a>
-       <a target="_blank" href="https://www.instagram.com/qravattacker/">
+       <a href="https://br.linkedin.com/in/cristian-pessotto-351426255">
             <img alt="Static Badge" 
-                  src="https://img.shields.io/badge/instagram-14151f?style=for-the-badge&logo=instagram">
+            src="https://img.shields.io/badge/linkedin-14151f?style=for-the-badge&logo=linkedin&logoColor=0077b5">
       </a>
-       <a target="_blank" href="https://twitter.com/QravaTTacker">
+       <a href="https://www.instagram.com/qravattacker/">
             <img alt="Static Badge" 
-                  src="https://img.shields.io/badge/twitter-14151f?style=for-the-badge&logo=twitter">
+            src="https://img.shields.io/badge/instagram-14151f?style=for-the-badge&logo=instagram">
       </a>
-       <a target="_blank" href="https://www.youtube.com/@qravattacker">
+       <a href="https://twitter.com/QravaTTacker">
             <img alt="Static Badge" 
-                        src="https://img.shields.io/badge/youtube-14151f?style=for-the-badge&logo=youtube&logoColor=ff0000">
+            src="https://img.shields.io/badge/twitter-14151f?style=for-the-badge&logo=twitter">
       </a>
-        <a href="#none">
+       <a href="https://www.youtube.com/@qravattacker">
+            <img alt="Static Badge" 
+            src="https://img.shields.io/badge/youtube-14151f?style=for-the-badge&logo=youtube&logoColor=ff0000">
+      </a>
+      <a href="#none">
             <img alt="Linha RGB" width="100%"
             src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"/>
       </a>
