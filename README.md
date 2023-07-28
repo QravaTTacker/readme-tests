@@ -257,32 +257,36 @@ qttck.frameworksAndLibs = new ArrayList<>(
       </a>
 </div>
 <div align="center">
+      <h3 id="song"><em><strong>Minhas Estatísticas</strong></em> 📈</h3>
       <!-- GRÁFICO VERTICAL -->
-      <a href="#none">
-            <img alt="My Graph" 
+      <a href="#song">
+            <img alt="My Graph" title="Gráfico de commits"
             src="https://github-readme-activity-graph.vercel.app/graph?username=QravaTTacker&bg_color=1e0c20&custom_title=Gráfico%20de%20Contribuições&hide_title=true&color=61fec9&line=a277ff&point=f694ff&area=true&hide_border=true&radius=16&hide_title=true&theme=modern-lilac"/>
       </a>
-      <!-- TROFÉUS -->
-      <a href="#none">
-            <img src="https://github-profile-trophy.vercel.app/?username=qravattacker&theme=gruvbox&row=1&column=7&margin-w=10&margin-h=10&no-frame=true"/>
-      </a>
       <!-- STREAK -->
-      <a href="#none">
-            <img height="200" src="https://streak-stats.demolab.com?user=qravattacker&theme=aura&border_radius=6&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&background=45%2C15141B%2C2B0028&fire=f693ff&border=503B7E"/>
+      <a href="#song">
+            <img height="200" alt="My Streak" title="Sequências de commits"
+            src="https://streak-stats.demolab.com?user=qravattacker&theme=aura&border_radius=6&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&background=45%2C15141B%2C2B0028&fire=f693ff&border=503B7E"/>
       </a><br/>
       <!-- LANGUAGES -->
-      <a href="#none">
-            <img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qravattacker&theme=aura&bg_color=deg,15131b,2a0027&hide_progress=false&layout=compact&custom_title=Linguagens&langs_count=10&border_color=503b7e"/>
+      <a href="#song">
+            <img height="200"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=qravattacker&theme=aura&bg_color=deg,15131b,2a0027&hide_progress=false&layout=compact&custom_title=Linguagens&langs_count=10&border_color=503b7e"/>
       </a>
       <!-- STATUS -->
-      <a href="#none">
-            <img height="200"  src="https://github-readme-stats.vercel.app/api?username=qravattacker&theme=aura&show_icons=true&bg_color=deg,15131b,2a0027&border_color=503b7e" />
+      <a href="#song">
+            <img height="200" 
+            src="https://github-readme-stats.vercel.app/api?username=qravattacker&theme=aura&show_icons=true&bg_color=deg,15131b,2a0027&border_color=503b7e"/>
+      </a>
+       <!-- TROFÉUS -->
+      <a href="#song">
+            <img src="https://github-profile-trophy.vercel.app/?username=qravattacker&theme=gruvbox&row=1&column=7&margin-w=10&margin-h=10&no-frame=true"/>
       </a>
       <!-- REPOSITÓRIOS -->
       <h2 align="left"><em>Repositórios</em></h2>
       <br/>
       <a href="https://github.com/qravattacker/basic-tools">
-            <img height="115"  src="https://github-readme-stats.vercel.app/api/pin/?username=qravattacker&repo=basic-tools&theme=aura&bg_color=deg,2a0027,15131b&border_color=503b7e" />
+            <img height="115"  src="https://github-readme-stats.vercel.app/api/pin/?username=qravattacker&repo=basic-tools&theme=aura&bg_color=deg,2a0027,15131b&border_color=503b7e"/>
       </a><br/><br/>
       <a href="#none">
             <img alt="Linha RGB" width="100%"
@@ -290,9 +294,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
       </a>
 </div>
 <div>
-      <h3>
-            <em><strong>Repositórios, API's e Ferramentas para o README</strong></em>
-      </h3>
+      <h3 id="api"><em><strong>Repositórios, API's e Ferramentas para o README</strong></em></h3>
       <em>
       <strong>
       <details>
@@ -361,7 +363,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
       </details>
       </strong>
       </em>
-      <a href="#none">
+      <a href="#api">
             <img alt="Capsule Render" width="100%"
             src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:622d6a,100:51cf98&height=120&section=footer&animation=fadeIn"/>
       </a>
