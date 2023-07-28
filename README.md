@@ -31,6 +31,9 @@
             Não sou apegado à nenhuma linguagem, por esse motivo sempre estou estudando um pouco de tudo. Sou aquilo se chamam de <strong>profissional generalista</strong>. Comecei com <strong>Python</strong> durante o ensino médio, depois parti para <strong>C</strong> na faculdade e atualmente estou estudando Estruturas de Dados e OOP com <strong>Java</strong>. Além disso, foco meus estudos em desenvolvimento web com <strong>PHP</strong> e <strong>JS</strong>.
       </p>
 </div>
+
+[![icon](https://img.shields.io/badge/linkedin-14151f?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://br.linkedin.com/in/cristian-pessotto-351426255)
+
 <div align="center">
        <a target="_blank" href="https://br.linkedin.com/in/cristian-pessotto-351426255">
             <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-14151f?style=for-the-badge&logo=linkedin&logoColor=0077b5">
