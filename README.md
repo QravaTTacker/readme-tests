@@ -80,23 +80,23 @@ qttck.frameworksAndLibs = new ArrayList<>(
 
 <!-- SPOTIFY -->
 <div>
-      <hr/>
       <a href="#song" title=" ">
             <img align="right" height="150" width="150" alt="My Gif" title=";-;"
             src="./local-images/dance.gif"/>
       </a>
       <h3 id="song">
-      <em><strong>Escute comigo</strong></em> <img height="20px" alt="dance" src="./local-images/dance.gif">
+            <em><strong>Escute comigo</strong></em> <a href="#song"><img height="20px" alt="dance" src="./local-images/dance.gif"></a>
       </h3>
+      <p>
+            Sou muito eclético quando se trata de música, mas dificilmente você mais ouvir pagode ou sertanejo aqui...  
+      </p>
       <a href="https://spotify-github-profile.vercel.app/api/view?uid=31rkyoczqj5ax3mrymmjusvvdode&redirect=true"      
             title="Ir para o Spotify?">
             <img alt="Spotify" 
             src="https://spotify-github-profile.vercel.app/api/view?uid=31rkyoczqj5ax3mrymmjusvvdode&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
       </a>
-      <a href="#song" title=" ">
-            <img alt="Linha RGB" width="100%"
-            src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"/>
-      </a>
+      <hr/>
+      <hr/>
 </div>
 <div id="tools" align="center">
       <h3 id="tools"><em><strong>Ferramentas e Plataformas</strong></em> 👾</h3>
@@ -266,7 +266,12 @@ qttck.frameworksAndLibs = new ArrayList<>(
       </a>
 </div>
 <div align="center">
-      <h3><em><strong>Minhas Estatísticas</strong></em> 📈</h3>
+      <div>
+            <img align="right" height="100px" alt="code" src="./local-images/graph.gif"/>
+            <h3 id="my-graph">
+                  <em><strong>Minhas Estatísticas</strong></em> 
+            </h3>
+      </div>
       <!-- GRÁFICO (MÊS) -->
       <h4 id="graph-month" align="left"><em><strong>Streaks de contribuições</strong><em></h4>
       <a href="#graph-month">
@@ -313,29 +318,23 @@ qttck.frameworksAndLibs = new ArrayList<>(
             <img alt="Linha RGB" width="100%"
             src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"/>
       </a>
-      <details>
+</div>
+<div width="100%">
+      <details align="center">
             <a href="more">
-                  <img alt="Profile Details"
-                        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qravattacker&theme=aura"/>
-            </a>
-            <a href="more">
-                  <img alt="Repos Per Language"
+                  <img width="300px" alt="Repos Per Language"
                         src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qravattacker&theme=aura"/>
-            </a>
+            </>
             <a href="more">
-                  <img alt="Most Commit Language" 
+                  <img width="300px" alt="Most Commit Language"
                         src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qravattacker&theme=aura"/>
             </a>
             <a href="more">
-                  <img alt="Stats"
-                        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qravattacker&theme=aura"/>
-            </a>
-            <a href="more">
-                  <img alt="Productive Time"
+                  <img width="300px" alt="Productive Time"
                         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qravattacker&theme=aura"/>
             </a>
       </details>
-</div>
+<div>
 <div>
       <h3 id="api"><em><strong>Repositórios, API's e Ferramentas para o README</strong></em></h3>
       <em>
