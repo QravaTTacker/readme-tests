@@ -9,38 +9,37 @@ public class Main {
         Person eu = new Person();
 
         eu.name = "Cristian Pessotto";
-        eu.age = 21; //estou MUITO velho mds 1-1
+        eu.age = 21; // estou MUITO velho mds 1-1
 
         eu.languages = new ArrayList<>(Arrays.asList(
-            "JavaScript",
-            "PHP",
-            "HTML",
-            "CSS"));
+                "JavaScript",
+                "PHP",
+                "HTML",
+                "CSS"));
 
         eu.frameworksAndLibs = new ArrayList<>(Arrays.asList(
-            "React",
-            "Laravel",
-            "Bootstrap",
-            "Spring"));
+                "React",
+                "Laravel",
+                "Bootstrap",
+                "Spring"));
 
         eu.foods = new ArrayList<>(Arrays.asList(
-            "Estrogonofe",
-            "Pizza",
-            "Snickers",
-            "Energético"));
+                "Estrogonofe",
+                "Pizza",
+                "Snickers",
+                "Energético"));
 
         eu.songs = new ArrayList<>(Arrays.asList(
-            "Lo-Fi",
-            "Rock",
-            "Synthwave",
-            "Dark Techno"));
+                "Lo-Fi",
+                "Rock",
+                "Synthwave",
+                "Dark Techno"));
 
-        ArrayList<ArrayList<String>> lists = new ArrayList<>
-        (Arrays.asList(
-            eu.languages,
-            eu.frameworksAndLibs,
-            eu.foods,
-            eu.songs));
+        ArrayList<ArrayList<String>> lists = new ArrayList<>(Arrays.asList(
+                eu.languages,
+                eu.frameworksAndLibs,
+                eu.foods,
+                eu.songs));
 
         final String line = "-".repeat(20);
 
@@ -52,6 +51,7 @@ public class Main {
         });
     }
 }
+
 class Person {
 
     public String name;
