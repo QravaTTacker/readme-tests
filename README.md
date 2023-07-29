@@ -189,33 +189,21 @@ qttck.frameworksAndLibs = new ArrayList<>(
                               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
                         </a>
                   </td>
+                   <td>
+                        <a href="#tools">
+                              <img height="45" width="45" alt="Vim icon" title="Vim"
+                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/>
+                        </a>
+                  </td>
                   <td>
                         <a href="#tools">
                               <img height="45" width="45" alt="JetBrains icon" title="JetBrains"
                               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/>
                         </a>
                   </td>
-                  <td>
-                        <a href="#tools">
-                              <img height="45" width="45" alt="Vim icon" title="Vim"
-                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/>
-                        </a>
-                  </td>
             </tr>
             <tr align="center">
-                  <th>Extras</th>
-                  <td>
-                        <a href="#tools">
-                              <img height="45" width="45" alt="Composer icon" title="C Language" 
-                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"/>
-                        </a>
-                  </td>
-                  <td>
-                        <a href="#tools">
-                              <img height="45" width="45" alt="GIMP icon" title="GIMP"
-                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"/>
-                        </a>
-                  </td>
+                  <th>Other Tools</th>
                   <td>
                         <a href="#tools">
                               <img height="45" width="45" alt="Git icon" title="Git"
@@ -230,18 +218,32 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   </td>
                   <td>
                         <a href="#tools">
+                              <img height="45" width="45" alt="Composer icon" title="Composer" 
+                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"/>
+                        </a>
+                  </td>
+                  <td>
+                        <a href="#tools">
+                              <img height="45" width="45" alt="GIMP icon" title="GIMP"
+                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"/>
+                        </a>
+                  </td>
+                  <td>
+                        <a href="#tools">
                               <img height="45" width="45" alt="Figma icon" title="Figma"
                               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
                         </a>
                   </td>
             </tr>
       </table>
-      <a href="#tools">
+      <!-- <a href="#tools">
             <img alt="Linha RGB" width="100%"
             src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"/>
-      </a>
+      </a> -->
 </div>
 <div>
+      <br/>
+      <hr/>
       <a href="#song">
             <img align="right" height="150" width="150" alt="My Gif" title=";-;"
             src="https://cdn.discordapp.com/attachments/1092414380198592555/1131729561038618735/7t8g23.gif"/>
@@ -263,35 +265,41 @@ qttck.frameworksAndLibs = new ArrayList<>(
             <img alt="My Graph" title="Gráfico de commits"
             src="https://github-readme-activity-graph.vercel.app/graph?username=QravaTTacker&bg_color=1e0c20&custom_title=Gráfico%20de%20Contribuições&hide_title=true&color=61fec9&line=a277ff&point=f694ff&area=true&hide_border=true&radius=16&hide_title=true&theme=modern-lilac"/>
       </a>
+      <h4 align="left"><em><strong>Streaks de contribuições</strong><em></h4>
       <!-- STREAK -->
       <a href="#song">
             <img height="200" alt="My Streak" title="Sequências de commits"
             src="https://streak-stats.demolab.com?user=qravattacker&theme=aura&border_radius=6&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&background=45%2C15141B%2C2B0028&fire=f693ff&border=503B7E"/>
       </a><br/>
+      <h4 align="left"><em><strong>Linguagens trabalhadas</strong><em></h4>
       <!-- LANGUAGES -->
       <a href="#song">
-            <img height="200"
+            <img height="200" alt="My Languages" title="Gráfico de linguagens"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=qravattacker&theme=aura&bg_color=deg,15131b,2a0027&hide_progress=false&layout=compact&custom_title=Linguagens&langs_count=10&border_color=503b7e"/>
       </a>
       <!-- STATUS -->
       <a href="#song">
-            <img height="200" 
+            <img height="200" alt="My Status" title="Status"
             src="https://github-readme-stats.vercel.app/api?username=qravattacker&theme=aura&show_icons=true&bg_color=deg,15131b,2a0027&border_color=503b7e"/>
       </a>
+      <h4 align="left"><em><strong>Troféus Conquistados</strong><em></h4>
        <!-- TROFÉUS -->
       <a href="#song">
-            <img src="https://github-profile-trophy.vercel.app/?username=qravattacker&theme=gruvbox&row=1&column=7&margin-w=10&margin-h=10&no-frame=true"/>
+            <img alt="My trophy's" title="Troféus conquistados"
+            src="https://github-profile-trophy.vercel.app/?username=qravattacker&theme=gruvbox&row=1&column=7&margin-w=10&margin-h=10&no-frame=true"/>
       </a>
       <!-- REPOSITÓRIOS -->
-      <h2 align="left"><em>Repositórios</em></h2>
+      <h2 align="left"><em><strong>Repositórios</strong></em></h2>
       <br/>
       <a href="https://github.com/qravattacker/basic-tools">
-            <img height="115"  src="https://github-readme-stats.vercel.app/api/pin/?username=qravattacker&repo=basic-tools&theme=aura&bg_color=deg,2a0027,15131b&border_color=503b7e"/>
+            <img height="115"  alt="readme-stats" title="Repositório para testes"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=qravattacker&repo=basic-tools&theme=aura&bg_color=deg,2a0027,15131b&border_color=503b7e"/>
       </a><br/><br/>
       <a href="#none">
             <img alt="Linha RGB" width="100%"
             src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"/>
       </a>
+
 </div>
 <div>
       <h3 id="api"><em><strong>Repositórios, API's e Ferramentas para o README</strong></em></h3>
