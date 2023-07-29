@@ -83,10 +83,10 @@ qttck.frameworksAndLibs = new ArrayList<>(
       <hr/>
       <a href="#song" title=" ">
             <img align="right" height="150" width="150" alt="My Gif" title=";-;"
-            src="https://cdn.discordapp.com/attachments/1092414380198592555/1131729561038618735/7t8g23.gif"/>
+            src="./local-images/dance.gif"/>
       </a>
       <h3 id="song">
-      <em><strong>Escute comigo ai</strong></em> <img height="20px" alt="dance" src="https://cdn.discordapp.com/attachments/1092414380198592555/1134932797912531034/song.gif">
+      <em><strong>Escute comigo</strong></em> <img height="20px" alt="dance" src="./local-images/dance.gif">
       </h3>
       <a href="https://spotify-github-profile.vercel.app/api/view?uid=31rkyoczqj5ax3mrymmjusvvdode&redirect=true"      
             title="Ir para o Spotify?">
