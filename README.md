@@ -42,16 +42,14 @@ const qravattacker {
 };
 ```
 
+<!-- RESUMO -->
 <div>
       <p align="justify">
             <em><strong>Eai... como vai?</strong></em><br>
             Me chamo <del>Cristian</del> <ins>QravaTTacker</ins>, espero que esteja bem! Esse é o meu perfil do Github <strong>dedicado para compartilhar meus estudos</strong> e provavelmente a rede que mais pretendo ficar ativo.<br/>
             Não sou apegado à nenhuma linguagem, por esse motivo sempre estou estudando um pouco de tudo. Sou aquilo se chamam de <strong>profissional generalista</strong>. Comecei com <strong>Python</strong> durante o ensino médio, depois parti para <strong>C</strong> na faculdade e atualmente estou estudando Estruturas de Dados e OOP com <strong>Java</strong>. Além disso, foco uma parcela dos meus estudos em desenvolvimento web com <strong>PHP</strong> e <strong>JS</strong>.
       </p>
-      <a href="#intro" title=" ">
-            <img alt="Linha RGB" width="100%"
-            src="./local-images/line-rgb.gif"/>
-      </a>
+      <a href="#intro" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb.gif"/></a>
 </div>
 
 ```java
@@ -76,48 +74,43 @@ qttck.frameworksAndLibs = new ArrayList<>(
 ```
 
 <!-- SPOTIFY -->
-<div>
-      <a href="#song" title=" "><img align="right" alt="My Gif" title="🎶" src="./local-images/dance.gif"/></a>
-      <h3 id="song">
+<div id="song">
+      <a href="#song" title="🎶"><img align="right" alt="My Gif" src="./local-images/dance.gif"/></a>
+      <h3>
             <em><strong>Escute comigo</strong></em>
             <a href="#song" title=" "><img height="20px" alt="dance" src="./local-images/dance.gif"/></a>
       </h3>
-      <p align="justify">
-            Sou muito eclético quando se trata de música, mas dificilmente você mais ouvir pagode ou sertanejo aqui...  
-      </p>
-      <a href="https://spotify-github-profile.vercel.app/api/view?uid=31rkyoczqj5ax3mrymmjusvvdode&redirect=true"      
+      <p>Sou muito eclético quando se trata de música, mas dificilmente você vai ouvir pagode ou sertanejo aqui...</p>
+      <a href="https://spotify-github-profile.vercel.app/api/view?uid=31rkyoczqj5ax3mrymmjusvvdode&redirect=true"       
             title="Ir para o Spotify?">
-            <img alt="Spotify" 
+            <img alt="Spotify"
             src="https://spotify-github-profile.vercel.app/api/view?uid=31rkyoczqj5ax3mrymmjusvvdode&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
       </a>
-      <a href="#song" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line.gif"/></a>
+      <hr/>
 </div>
+
 <!-- ESTATÍSTICAS -->
 <div align="center">
-      <h2 id="my-graph">
-            <em><strong>Minhas Estatísticas</strong></em> <img width="20px" alt="code" src="./local-images/code.gif"/>
+      <h2 id="statistics">
+            <em><strong>Minhas Estatísticas</strong></em>
+            <a href="#statistics" title=" "><img width="20px" alt="Code" src="./local-images/code.gif"/></a>
       </h2>
-      <!-- GRÁFICO (ANO) -->
-      <a href="#graph-year">
-            <img width="100%" alt="My Graph Year" title="Commits no último ano"
-            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qravattacker&theme=aura"/>
-      </a>
-      <!-- GRÁFICO (MÊS) -->
-      <h4 id="graph-month" align="left"><em><strong>Streaks de contribuições</strong><em></h4>
-      <a href="#graph-month">
+      <!-- GRÁFICO -->
+      <h4 id="graph" align="left"><em><strong>Contribuições no último mês</strong></em> 📅</h4>
+      <a href="#graph">
             <img alt="My Graph Month" title="Commits no último mês"
             src="https://github-readme-activity-graph.vercel.app/graph?username=QravaTTacker&bg_color=1e0c20&custom_title=Gráfico%20de%20Contribuições&hide_title=true&color=61fec9&line=a277ff&point=f694ff&area=true&hide_border=true&radius=16&hide_title=true&theme=modern-lilac"/>
       </a>
       <!-- STREAK -->
-      <h4 id="streak" align="left"><em><strong>Streaks de contribuições</strong><em></h4>
+      <h4 id="streak" align="left"><em><strong>Streaks de contribuições</strong></em> ⚡</h4>
       <a href="#streak">
-            <img height="200" alt="My Streaks" title="Sequências de commits"
+            <img height="200" alt="My Streaks" title="Streak de commits"
             src="https://streak-stats.demolab.com?user=qravattacker&theme=aura&border_radius=6&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&background=45%2C15141B%2C2B0028&fire=f693ff&border=503B7E"/>
       </a><br/>
       <!-- LANGUAGES -->
-      <h4 id="lang-stats" align="left"><em><strong>Linguagens trabalhadas</strong><em></h4>
+      <h4 id="lang-stats" align="left"><em><strong>Linguagens Utilizadas + Status</strong></em> 💻</h4>
       <a href="#lang-stats">
-            <img height="200" alt="My Languages" title="Gráfico de linguagens"
+            <img height="200" alt="My Languages" title="Linguagens utilizadas"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=qravattacker&theme=aura&bg_color=deg,15131b,2a0027&hide_progress=false&layout=compact&custom_title=Linguagens&langs_count=10&border_color=503b7e"/>
       </a>
       <!-- STATUS -->
@@ -126,23 +119,21 @@ qttck.frameworksAndLibs = new ArrayList<>(
             src="https://github-readme-stats.vercel.app/api?username=qravattacker&theme=aura&show_icons=true&bg_color=deg,15131b,2a0027&border_color=503b7e"/>
       </a>
        <!-- TROFÉUS -->
-      <h4 id="trophy" align="left"><em><strong>Troféus Conquistados</strong><em></h4>
+      <h4 id="trophy" align="left"><em><strong>Troféus Conquistados</strong></em> 🏆</h4>
       <a href="#trophy">
             <img alt="My Trophy's" title="Troféus conquistados"
             src="https://github-profile-trophy.vercel.app/?username=qravattacker&theme=gruvbox&row=1&column=7&margin-w=10&margin-h=10&no-frame=true"/>
       </a>
       <!-- REPOSITÓRIOS -->
-      <h3 id="repo" align="left"><em><strong>Repositórios</strong></em></h3>
-      <br/>
+      <h3 id="repo" align="left"><em><strong>Repositórios</strong></em> 📂</h3><br/>
       <a href="https://github.com/qravattacker/basic-tools">
-            <img height="115"  alt="readme-stats" title="Repositório para testes"
+            <img height="115" alt="readme-stats" title="Repositório para testes"
             src="https://github-readme-stats.vercel.app/api/pin/?username=qravattacker&repo=basic-tools&theme=aura&bg_color=deg,2a0027,15131b&border_color=503b7e"/>
       </a><br/><br/>
-      <a href="#repo">
-            <img alt="Linha RGB" width="100%"
-            src="./local-images/line-rgb.gif"/>
-      </a>
+      <a href="#repo"><img alt="Linha RGB" width="100%" src="./local-images/line-rgb.gif"/></a>
 </div>
+
+<!-- LINGUAGENS E FERRAMENTAS -->
 <div id="tools" align="center">
       <h3 id="tools"><em><strong>Ferramentas e Plataformas</strong></em> 👾</h3>
       <table width="100%">
@@ -305,11 +296,10 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   </td>
             </tr>
       </table>
-      <a href="#tools" title=" ">
-            <img alt="Linha RGB" width="100%"
-            src="./local-images/line-rgb.gif"/>
-      </a>
+      <a href="#tools" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb.gif"/></a>
 </div>
+
+<!-- REFERÊNCIAS -->
 <div>
       <h4 id="api"><em><strong>Repositórios, API's e Ferramentas para o README</strong></em></h4>
       <em>
@@ -373,6 +363,12 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   <li>
                         Capsule Render  👉🏼 
                         <a href="https://github.com/kyechan99/capsule-render">
+                              <em><strong>github</strong></em>
+                        </a>
+                  </li>
+                  <li>
+                        Outra opção para ícones  👉🏼 
+                        <a href="https://github.com/tandpfun/skill-icons">
                               <em><strong>github</strong></em>
                         </a>
                   </li>
