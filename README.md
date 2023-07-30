@@ -45,7 +45,7 @@ const qravattacker {
 <div>
       <p align="justify">
             <em><strong>Eai... como vai?</strong></em><br>
-            Me chamo <del>Cristian</del> <ins>QravaTTacker</ins>, espero que esteja bem! Esse é o meu perfil do Github <strong>dedicado para estudos pessoais</strong> e provavelmente a rede que mais pretendo ficar ativo.<br/>
+            Me chamo <del>Cristian</del> <ins>QravaTTacker</ins>, espero que esteja bem! Esse é o meu perfil do Github <strong>dedicado para compartilhar meus estudos</strong> e provavelmente a rede que mais pretendo ficar ativo.<br/>
             Não sou apegado à nenhuma linguagem, por esse motivo sempre estou estudando um pouco de tudo. Sou aquilo se chamam de <strong>profissional generalista</strong>. Comecei com <strong>Python</strong> durante o ensino médio, depois parti para <strong>C</strong> na faculdade e atualmente estou estudando Estruturas de Dados e OOP com <strong>Java</strong>. Além disso, foco uma parcela dos meus estudos em desenvolvimento web com <strong>PHP</strong> e <strong>JS</strong>.
       </p>
       <a href="#intro" title=" ">
@@ -77,12 +77,10 @@ qttck.frameworksAndLibs = new ArrayList<>(
 
 <!-- SPOTIFY -->
 <div>
-      <a href="#song" title=" ">
-            <img align="right" height="150" width="150" alt="My Gif" title="🎶" src="./local-images/dance.gif"/>
-      </a>
+      <a href="#song" title=" "><img align="right" alt="My Gif" title="🎶" src="./local-images/dance.gif"/></a>
       <h3 id="song">
-            <em><strong>Escute comigo</strong></em> 
-            <a href="#song" title=" "><img height="20px" alt="dance" src="./local-images/dance.gif"></a>
+            <em><strong>Escute comigo</strong></em>
+            <a href="#song" title=" "><img height="20px" alt="dance" src="./local-images/dance.gif"/></a>
       </h3>
       <p align="justify">
             Sou muito eclético quando se trata de música, mas dificilmente você mais ouvir pagode ou sertanejo aqui...  
@@ -92,18 +90,13 @@ qttck.frameworksAndLibs = new ArrayList<>(
             <img alt="Spotify" 
             src="https://spotify-github-profile.vercel.app/api/view?uid=31rkyoczqj5ax3mrymmjusvvdode&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
       </a>
-      <a href="#song" title=" ">
-            <img alt="Linha RGB" height="10px" width="100%"
-            src="./local-images/line-rgb.gif"/>
-      </a>
+      <a href="#song" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line.gif"/></a>
 </div>
+<!-- ESTATÍSTICAS -->
 <div align="center">
-      <div align="left">
-            <img align="right" height="100px" alt="code" src="./local-images/graph.gif"/>
-            <h3 style="font-size: 30px" id="my-graph">
-                  <em><strong>Minhas Estatísticas</strong></em> 
-            </h3>
-      </div>
+      <h2 id="my-graph">
+            <em><strong>Minhas Estatísticas</strong></em> <img width="20px" alt="code" src="./local-images/code.gif"/>
+      </h2>
       <!-- GRÁFICO (ANO) -->
       <a href="#graph-year">
             <img width="100%" alt="My Graph Year" title="Commits no último ano"
@@ -318,7 +311,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
       </a>
 </div>
 <div>
-      <h3 id="api"><em><strong>Repositórios, API's e Ferramentas para o README</strong></em></h3>
+      <h4 id="api"><em><strong>Repositórios, API's e Ferramentas para o README</strong></em></h4>
       <em>
       <strong>
       <details>
@@ -387,7 +380,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
       </details>
       </strong>
       </em>
-      <a href="#api">
+      <a href="#api" title=" ">
             <img alt="Capsule Render" width="100%"
             src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:622d6a,100:51cf98&height=120&section=footer&animation=fadeIn"/>
       </a>
