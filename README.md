@@ -47,7 +47,7 @@ const qravattacker {
       <p align="justify">
             <em><strong>Eai... como vai?</strong></em><br>
             Me chamo <del>Cristian</del> <ins>QravaTTacker</ins>, espero que esteja bem! Esse é o meu perfil do Github <strong>dedicado para compartilhar meus estudos</strong> e provavelmente a rede que mais pretendo ficar ativo.<br/>
-            Não sou apegado à nenhuma linguagem, por esse motivo sempre estou estudando um pouco de tudo. Sou aquilo se chamam de <strong>profissional generalista</strong>. Comecei com <strong>Python</strong> durante o ensino médio, depois parti para <strong>C</strong> na faculdade e atualmente estou estudando Estruturas de Dados e OOP com <strong>Java</strong>. Além disso, foco uma parcela dos meus estudos em desenvolvimento web com <strong>PHP</strong> e <strong>JS</strong>.
+            Não sou apegado à nenhuma linguagem, por esse motivo sempre estou estudando um pouco de tudo. Sou aquilo que chamam de <strong>profissional generalista</strong>. Comecei com <strong>Python</strong> durante o ensino médio por hobby, depois parti para <strong>C</strong> na faculdade e atualmente estou estudando Estruturas de Dados e OOP com <strong>Java</strong>. Além disso, foco uma parcela dos meus estudos em desenvolvimento web com <strong>PHP</strong> e <strong>JS</strong> para me tornar um futuro desenvolvedor Fullstack.
       </p>
       <a href="#intro" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb.gif"/></a>
 </div>
@@ -299,12 +299,16 @@ qttck.frameworksAndLibs = new ArrayList<>(
       <a href="#tools" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb.gif"/></a>
 </div>
 
+<!-- https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif -->
 <!-- REFERÊNCIAS -->
 <div>
       <h4 id="api"><em><strong>Repositórios, API's e Ferramentas para o README</strong></em></h4>
       <em>
       <strong>
-      <details>
+      <details open>
+            <summary>
+                  APIs
+            </summary>
             <ul>
                   <li>
                         Escrita dinâmica 👉🏼
