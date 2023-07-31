@@ -100,6 +100,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
             <summary align="left">
                   <em><strong>Linguagens utilizadas + Status</strong></em> 💻
             </summary>
+            </br>
             <a href="#statistics">
                   <img height="200" alt="My Languages" title="Linguagens utilizadas 💻"
                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=qravattacker&theme=aura&bg_color=deg,15131b,2a0027&hide_progress=false&layout=compact&custom_title=Linguagens&langs_count=10&border_color=503b7e"/>
@@ -112,18 +113,20 @@ qttck.frameworksAndLibs = new ArrayList<>(
        <!-- STREAK -->
       <details id="streak">
             <summary align="left">
-                  <em><strong>Streaks de contribuições</strong></em> ⚡
+                  <em><strong>Sequências de commits</strong></em> ⚡
             </summary>
+            </br>
             <a href="#streak">
-                  <img height="200" alt="My Streaks" title="Streak de commits ⚡"
+                  <img height="200" alt="My Streaks" title="Sequências de commits ⚡"
                   src="https://streak-stats.demolab.com?user=qravattacker&theme=aura&border_radius=6&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&background=45%2C15141B%2C2B0028&fire=f693ff&border=503B7E"/>
             </a>
       </details>
       <!-- GRÁFICO -->
-      <details open id="graph">
+      <details id="graph">
             <summary align="left">
-                  <em><strong>Contribuições no último mês</strong></em> 📅
+                  <em><strong>Commits no último mês</strong></em> 📅
             </summary>
+            </br>
             <a href="#graph">
                   <img width="90%" alt="My Graph Month" title="Commits no último mês 📅"
                   src="https://github-readme-activity-graph.vercel.app/graph?username=QravaTTacker&bg_color=1e0c20&custom_title=Gráfico%20de%20Contribuições&hide_title=true&color=61fec9&line=a277ff&point=f694ff&area=true&hide_border=true&radius=16&hide_title=true&theme=modern-lilac"/>
@@ -132,8 +135,9 @@ qttck.frameworksAndLibs = new ArrayList<>(
       <!-- TROFÉUS -->
       <details id="trophy">
             <summary align="left">
-                  <em><strong>Troféus Conquistados</strong></em> 🏆
+                  <em><strong>Troféus conquistados</strong></em> 🏆
             </summary>
+            </br> espaçamentos 
             <a href="#trophy">
                   <img alt="My Trophy's" title="Troféus conquistados 🏆"
                   src="https://github-profile-trophy.vercel.app/?username=qravattacker&theme=gruvbox&row=1&column=7&margin-w=10&margin-h=10&no-frame=true"/>
@@ -144,11 +148,11 @@ qttck.frameworksAndLibs = new ArrayList<>(
             <summary align="left">
                   <em><strong>Repositórios</strong></em> 📂
             </summary>
+            </br>
             <a href="https://github.com/qravattacker/basic-tools">
                   <img height="115" alt="readme-stats" title="Repositório para testes"
                   src="https://github-readme-stats.vercel.app/api/pin/?username=qravattacker&repo=basic-tools&theme=aura&bg_color=deg,2a0027,15131b&border_color=503b7e"/>
-            </a><br/><br/>
-            <a href="#repo"><img alt="Linha RGB" width="100%" src="./local-images/line-rgb.gif"/></a>
+            </a>
       </details>
       <hr/>
 </div>
@@ -319,7 +323,6 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   </td>
             </tr>
       </table>
-      <a href="#tools" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb.gif"/></a>
 </div>
 
 <!-- REFERÊNCIAS -->
@@ -404,6 +407,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                         </a>
                   </li>
             </ul>
+            <a href="#tools" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb.gif"/></a>
       </details>
       </strong>
       </em>
