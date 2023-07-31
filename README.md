@@ -323,6 +323,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   </td>
             </tr>
       </table>
+      <a href="#tools" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb.gif"/></a>
 </div>
 
 <!-- REFERÊNCIAS -->
@@ -407,7 +408,6 @@ qttck.frameworksAndLibs = new ArrayList<>(
                         </a>
                   </li>
             </ul>
-            <a href="#tools" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb.gif"/></a>
       </details>
       </strong>
       </em>
