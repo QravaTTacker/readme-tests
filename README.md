@@ -137,7 +137,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
             <summary align="left">
                   <em><strong>Troféus conquistados</strong></em> 🏆
             </summary>
-            </br> espaçamentos 
+            </br>
             <a href="#trophy">
                   <img alt="My Trophy's" title="Troféus conquistados 🏆"
                   src="https://github-profile-trophy.vercel.app/?username=qravattacker&theme=gruvbox&row=1&column=7&margin-w=10&margin-h=10&no-frame=true"/>
