@@ -29,14 +29,14 @@
                   src="https://img.shields.io/badge/youtube-14151f?style=for-the-badge&logo=youtube&logoColor=ff0000"/>
             </a>
       </div>
-      <a href="#intro" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb.gif"/></a>
+      <a href="#intro" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb-left.gif"/></a>
 </div>
 
 ```js
 const qravattacker {
       name: "Cristian Pessotto",
       age: 21,
-      email: "cristian.pessotto@gmail.com",
+      email: "cristianpessotto88@gmail.com",
       job: "Fullstack",
       address: "Paraná"
 };
@@ -49,7 +49,7 @@ const qravattacker {
             Me chamo <del>Cristian</del> <ins>QravaTTacker</ins>, espero que esteja bem! Esse é o meu perfil do Github <strong>dedicado para compartilhar meus estudos</strong> e provavelmente a rede que mais pretendo ficar ativo.<br/>
             Não sou apegado à nenhuma linguagem, por esse motivo sempre estou estudando um pouco de tudo. Sou aquilo que chamam de <strong>profissional generalista</strong>. Comecei com <strong>Python</strong> durante o ensino médio por hobby, depois parti para <strong>C</strong> na faculdade e atualmente estou estudando Estruturas de Dados e OOP com <strong>Java</strong>. Além disso, foco uma parcela dos meus estudos em desenvolvimento web com <strong>PHP</strong> e <strong>JS</strong> para me tornar um futuro desenvolvedor Fullstack.
       </p>
-      <a href="#intro" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb.gif"/></a>
+      <a href="#intro" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb-left.gif"/></a>
 </div>
 
 ```java
@@ -128,7 +128,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
             </summary>
             </br>
             <a href="#graph">
-                  <img width="90%" alt="My Graph Month" title="Commits no último mês 📅"
+                  <img width="90%" alt="My Graph" title="Commits no último mês 📅"
                   src="https://github-readme-activity-graph.vercel.app/graph?username=QravaTTacker&bg_color=1e0c20&custom_title=Gráfico%20de%20Contribuições&hide_title=true&color=61fec9&line=a277ff&point=f694ff&area=true&hide_border=true&radius=16&hide_title=true&theme=modern-lilac"/>
             </a>
       </details>
@@ -323,7 +323,45 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   </td>
             </tr>
       </table>
-      <a href="#tools" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb.gif"/></a>
+      <a href="#tools" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb-left.gif"/></a>
+</div>
+
+<!-- ... -->
+<div>
+      <table width="100%">
+            <tr align="center">
+                  <th>
+                        Linguagens
+                  </th>
+                  <td>
+                        JS, PHP, Java
+                  </td>
+            </tr>
+            <tr align="center">
+                  <th>
+                        Frameworks e Bibliotecas
+                  </th>
+                  <td>
+                        Spring, Laravel
+                  </td>
+            </tr>
+            <tr align="center">
+                  <th>
+                        Ferramentas
+                  </th>
+                  <td>
+                        Git, GIMP
+                  </td>
+            </tr>
+            <tr align="center">
+                  <th>
+                        Ambiente de Trabalho
+                  </th>
+                  <td>
+                        Windows/Ubuntu, WSL, VS Code, JetBrains 
+                  </td>
+            </tr>
+      </table>
 </div>
 
 <!-- REFERÊNCIAS -->
