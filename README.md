@@ -327,14 +327,17 @@ qttck.frameworksAndLibs = new ArrayList<>(
 </div>
 
 <!-- ... -->
-<div>
+<div id="#lang" align="center">
       <table width="100%">
             <tr align="center">
                   <th>
                         Linguagens
                   </th>
                   <td>
-                        JS, PHP, Java
+                        <a href="#lang" >
+                              <img alt="Front-end tools" title="Front-end tools" 
+                                    src="https://skillicons.dev/icons?i=js,html,css"/>
+                        </a>
                   </td>
             </tr>
             <tr align="center">
