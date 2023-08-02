@@ -323,37 +323,42 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   </td>
             </tr>
       </table>
-      <a href="#tools" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb-left.gif"/></a>
 </div>
 
 <!-- ... -->
-<div id="#lang" align="center">
+<div id="lang" align="center">
       <table width="100%">
             <tr align="center">
                   <th>
-                        Linguagens
+                        Front-end
+                  </th>
+                  <td>
+                        <a href="#lang" >
+                              <img alt="Front-end tools" title="Front-end tools"
+                              src="https://skillicons.dev/icons?i=js,html,css"/>
+                        </a>
+                  </td>
+            </tr>
+            <tr align="center">
+                  <th>
+                        Back-end
+                  </th>
+                  <td>
+                        <a href="#lang" >
+                              <img alt="Front-end tools" title="Back-end tools"
+                              src="https://skillicons.dev/icons?i=java,php"/>
+                        </a>
+                  </td>
+            </tr>
+            <tr align="center">
+                  <th>
+                        Frameworks and Libs
                   </th>
                   <td>
                         <a href="#lang" >
                               <img alt="Front-end tools" title="Front-end tools" 
                                     src="https://skillicons.dev/icons?i=js,html,css"/>
                         </a>
-                  </td>
-            </tr>
-            <tr align="center">
-                  <th>
-                        Frameworks e Bibliotecas
-                  </th>
-                  <td>
-                        Spring, Laravel
-                  </td>
-            </tr>
-            <tr align="center">
-                  <th>
-                        Ferramentas
-                  </th>
-                  <td>
-                        Git, GIMP
                   </td>
             </tr>
             <tr align="center">
@@ -369,6 +374,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
 
 <!-- REFERÊNCIAS -->
 <div>
+      <a href="#tools" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb-left.gif"/></a>
       <em>
       <strong>
       <details id="api">
@@ -377,76 +383,56 @@ qttck.frameworksAndLibs = new ArrayList<>(
             </summary>
             <ul>
                   <li>
+                        Cabeçalho e rodapé 👉🏼
+                        <a href="https://github.com/kyechan99/capsule-render">github</a>
+                  </li>
+                  <li>
                         Escrita dinâmica 👉🏼
-                        <a href="https://github.com/DenverCoder1/readme-typing-svg">
-                              <em><strong>github</strong></em>
-                        </a>
+                        <a href="https://github.com/DenverCoder1/readme-typing-svg">github</a>
                         ou
-                        <a href="https://readme-typing-svg.demolab.com/demo/">
-                              <em><strong>web</strong></em>
-                        </a>
+                        <a href="https://readme-typing-svg.demolab.com/demo/">web</a>
                   </li>
                   <li>
-                        Música do Spotify 👉🏼 
-                        <a href="https://github.com/kittinan/spotify-github-profile">
-                              <em><strong>github</strong></em>
-                        </a>
+                        Música do Spotify 👉🏼
+                        <a href="https://github.com/kittinan/spotify-github-profile">github</a>
                   </li>
                   <li>
-                        Logos e ícones 👉🏼 
-                        <a href="https://github.com/devicons/devicon">
-                              <em><strong>github</strong></em>
-                        </a>
+                        Linguagens e status 👉🏼
+                        <a href="https://github.com/anuraghazra/github-readme-stats">github</a>
+                  </li>
+                  <li>
+                        Sequências de commits 👉🏼
+                        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">github</a>
+                  </li>
+                  <li>
+                        Gráfico de commits 👉🏼
+                        <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">github</a>
+                  </li>
+                  <li>
+                        Troféus conquistados 👉🏼
+                        <a href="https://github.com/ryo-ma/github-profile-trophy">github</a>
+                  </li>
+                  <li>
+                        Badges de redes sociais 👉🏼
+                        <a href="https://github.com/badges/shields">github</a>
                         ou
-                        <a href="https://devicon.dev/">
-                              <em><strong>web</strong></em>
-                        </a>
+                        <a href="https://shields.io/badges">web</a>
                   </li>
                   <li>
-                        Badges e tags 👉🏼 
-                        <a href="https://github.com/badges/shields">
-                              <em><strong>github</strong></em>
-                        </a>
+                        Ícones 👉🏼
+                        <a href="https://github.com/tandpfun/skill-icons">github</a>
                         ou
-                        <a href="https://shields.io/badges">
-                              <em><strong>web</strong></em>
-                        </a>
+                        <a href="https://skillicons.dev">web</a>
                   </li>
                   <li>
-                        Gráfico de commits 👉🏼 
-                        <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-                              <em><strong>github</strong></em>
-                        </a>
+                        Outra opção de ícones 👉🏼
+                        <a href="https://github.com/devicons/devicon">github</a>
+                        ou
+                        <a href="https://devicon.dev/">web</a>
                   </li>
                   <li>
-                        Gráfico de sequências 👉🏼 
-                        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-                              <em><strong>github</strong></em>
-                        </a>
-                  </li>
-                  <li>
-                        Status e linguagens 👉🏼 
-                        <a href="https://github.com/anuraghazra/github-readme-stats">
-                              <em><strong>github</strong></em>
-                        </a>
-                  </li>
-                  <li>
-                        Capsule Render 👉🏼 
-                        <a href="https://github.com/kyechan99/capsule-render">
-                              <em><strong>github</strong></em>
-                        </a>
-                  </li>
-                  <li>
-                        Outra opção para ícones 👉🏼 
-                        <a href="https://github.com/tandpfun/skill-icons">
-                              <em><strong>github</strong></em>
-                        </a>
-                  </li>
-                  <li>
-                        Opção de emojis 👉🏼 
-                        <a href="https://giphy.com/Emoji">
-                              <em><strong>Giphy</strong></em>
-                        </a>
+                        Emojis 👉🏼
+                        <a href="https://giphy.com/Emoji">Giphy</a>
                   </li>
             </ul>
       </details>
