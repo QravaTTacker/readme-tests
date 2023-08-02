@@ -29,8 +29,8 @@
                   src="https://img.shields.io/badge/youtube-14151f?style=for-the-badge&logo=youtube&logoColor=ff0000"/>
             </a>
       </div>
-      <div>
-            <a href="intro">
+      <div align="center">
+            <a href="#intro">
                   <img alt="Snake" title="Snake commits" src="https://github.com/QravaTTacker/readme-tests/blob/output/github-snake-dark.svg"/>
             </a>
       </div>
