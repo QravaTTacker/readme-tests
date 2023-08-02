@@ -326,7 +326,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
 </div>-->
 
 <!-- LINGUAGENS E FERRAMENTAS -->
-<div align="center">
+<div width="80vw" align="center">
       <h2 id="tools">
             <em><strong>Minhas Ferramentas e Linguagens</strong></em>
             <a href="#tools" title=" ">
