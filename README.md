@@ -1,6 +1,3 @@
-![](https://github.com/QravaTTacker/readme-tests/blob/output/github-snake-dark.svg)
-
-
 <!-- APRESENTAÇÃO -->
 <div id="intro" align="center">
       <!-- CABEÇALHO -->
@@ -30,6 +27,11 @@
             <a href="https://www.youtube.com/@qravattacker" title="Ir para o YouTube?">
                   <img alt="Badge YouTube"
                   src="https://img.shields.io/badge/youtube-14151f?style=for-the-badge&logo=youtube&logoColor=ff0000"/>
+            </a>
+      </div>
+      <div>
+            <a href="intro">
+                  <img alt="Snake" title="Snake commits" src="https://github.com/QravaTTacker/readme-tests/blob/output/github-snake-dark.svg"/>
             </a>
       </div>
       <a href="#intro" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb-left.gif"/></a>
@@ -458,8 +460,6 @@ qttck.frameworksAndLibs = new ArrayList<>(
             </tr>
       </table>
 </div>
-
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/109308073/204124026-2b60bb96-2bbf-4603-81ac-a70ec77749f1.svg)
 
 <!-- REFERÊNCIAS -->
 <div>
