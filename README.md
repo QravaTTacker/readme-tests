@@ -1,3 +1,6 @@
+![](https://github.com/QravaTTacker/readme-tests/blob/output/github-snake-dark.svg)
+
+
 <!-- APRESENTAÇÃO -->
 <div id="intro" align="center">
       <!-- CABEÇALHO -->
