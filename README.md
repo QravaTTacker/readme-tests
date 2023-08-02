@@ -482,6 +482,10 @@ qttck.frameworksAndLibs = new ArrayList<>(
                         <a href="https://readme-typing-svg.demolab.com/demo/">web</a>
                   </li>
                   <li>
+                        Snake Tutorial 👉🏼
+                        <a href="https://github.com/bylickilabs/Readme-Readme">github</a>
+                  </li>
+                  <li>
                         Música do Spotify 👉🏼
                         <a href="https://github.com/kittinan/spotify-github-profile">github</a>
                   </li>
