@@ -106,16 +106,16 @@ qttck.frameworksAndLibs = new ArrayList<>(
             </summary>
       </details>
       <!-- LANGUAGES + STATS -->
-      <details open>
+      <details open id="langs-stats">
             <summary align="left">
                   <em><strong>Linguagens utilizadas + Status</strong></em> 💻
             </summary>
             </br>
-            <a href="#statistics">
+            <a href="#langs-stats">
                   <img height="200" alt="My Languages" title="Linguagens utilizadas 💻"
                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=qravattacker&theme=aura&bg_color=deg,15131b,2a0027&hide_progress=false&layout=compact&custom_title=Linguagens&langs_count=10&border_color=503b7e"/>
             </a>
-            <a href="#statistics">
+            <a href="#langs-stats">
                   <img height="200" alt="My Stats" title="Status 📋"
                   src="https://github-readme-stats.vercel.app/api?username=qravattacker&theme=aura&show_icons=true&bg_color=deg,15131b,2a0027&border_color=503b7e"/>
             </a>
@@ -479,6 +479,10 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   <li>
                         Música do Spotify 👉🏼
                         <a href="https://github.com/kittinan/spotify-github-profile">github</a>
+                  </li>
+                  <li>
+                        Commits 👉🏼
+                        <a href="https://github.com/yoshi389111/github-profile-3d-contrib/tree/main">github</a>
                   </li>
                   <li>
                         Linguagens e status 👉🏼
