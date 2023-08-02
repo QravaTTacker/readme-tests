@@ -98,6 +98,16 @@ qttck.frameworksAndLibs = new ArrayList<>(
       <!-- LANGUAGES + STATS -->
       <details open>
             <summary align="left">
+                  <em><strong>Commits</strong></em> 💚
+                  <a href="#statistics">
+                        <img alt="Commits" title="Commits 💚"
+                        src="./profile-3d-contrib/profile-night-rainbow.svg">
+                  </a>
+            </summary>
+      </details>
+      <!-- LANGUAGES + STATS -->
+      <details open>
+            <summary align="left">
                   <em><strong>Linguagens utilizadas + Status</strong></em> 💻
             </summary>
             </br>
