@@ -7,7 +7,7 @@
       </a>
       <!-- ESCRITA DINÂMICA -->
       <a href="#intro" title=" ">
-            <img alt="Readme Typing"
+            <img alt=": Press F5"
             src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=20&duration=4000&pause=500&color=61FFCA&center=true&width=435&lines=Análise+e+Desenvolvimento+de+Sistemas;Estudando+Javascript+e+PHP;Fullstack+Web"/>
       </a>
       <!-- REDES SOCIAIS -->
@@ -341,7 +341,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
             <em><strong>Minhas Ferramentas e Linguagens</strong></em>
             <a href="#tools" title=" ">
                   <img alt="pc" width="20px"
-                  src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"/>
+                  src="./local-images/pc.gif"/>
             </a>
       </h2>
       <table width="100%">
@@ -455,6 +455,8 @@ qttck.frameworksAndLibs = new ArrayList<>(
             </tr>
       </table>
 </div>
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/109308073/204124026-2b60bb96-2bbf-4603-81ac-a70ec77749f1.svg)
 
 <!-- REFERÊNCIAS -->
 <div>
