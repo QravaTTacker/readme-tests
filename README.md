@@ -31,7 +31,7 @@
       </div>
       <div align="center">
             <a href="#intro">
-                  <img alt="Snake" title="Snake commits" src="https://github.com/QravaTTacker/readme-tests/blob/output/github-snake-dark.svg"/>
+                  <img alt="Snake" title="Snake commits" src="https://github.com/QravaTTacker/readme-tests/blob/output/github-contribution-grid-snake-dark.svg"/>
             </a>
       </div>
       <a href="#intro" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb-left.gif"/></a>
